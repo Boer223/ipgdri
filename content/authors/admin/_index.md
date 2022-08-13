@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaobo Cui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Oil Crops Research Institute, Chinese Academy of Agricultural Sciences
+    url: 'http://ocri.caas.cn/index.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Database & Website Construction
+  - Genome Evolution
+  - Data Visualization
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D in Biochemistry and Molecular Biology
+      institution: Oil Crops Research Institute, Chinese Academy of Agricultural Sciences
+      year: 2018-
+    - course: B.Sc in Bioinformatics
+      institution: North China University of Science and Technology
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +37,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:cuixb223@outlook.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/boer0223
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com.hk/citations?user=3XhOxFEAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1583-840X
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xiaobo-Cui
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Ph.D. Candidates
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My Ph.D. research work mainly focus on construction of *Brassica napus* population structural variation and evolution. Currently, I am also interested in *Brassica napus* omics website construction.
