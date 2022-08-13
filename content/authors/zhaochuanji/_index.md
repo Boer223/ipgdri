@@ -65,4 +65,10 @@ user_groups:
   - Postdoctoral Associates
 ---
 
-In view of insufficient genetic loci for high density and high yield restrict the green revolution in the rapeseed industry. Dr. Zhao and other colleagues use the existing germplasm resource groups to carry out trait association and linkage analysis, discovers the regulatory sites or genes of plant architecture, reveals excellent gene diversity and evolutionary laws, and build a molecular regulatory network for the formation, variation and improvement of plant architecture.
+Insufficient genetic loci for high density and high yield restrict the green revolution in the rapeseed industry. Our aim is to utilize the *Brassica napus* germplasm resource to dissect plant architecture by association and linkage analysis combined with multiple-omics methods in *Brassica napus*, and our current research directions mainly include:
+- Exploiting the ideal plant architecture materials and underlying genes in *Brassica napus*.
+- Understanding the underlying the mechanism of ideal plant architecture formation, and building a molecular regulatory network for the formation, variation and improvement of plant architecture.
+- Potential assessment and breeding application of ideal plant architecture materials and underlying genes.
+
+#### Funding
+- Genetic architecture dissection for plant height and cloning of semi-dwarf genes in superior plant architecture in *Brassica napus*. 300,000, National Science Foundation of China, 32101813, 2022.1-2024.12
