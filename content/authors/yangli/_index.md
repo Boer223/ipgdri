@@ -24,7 +24,7 @@ education:
       institution: Oil Crop Research Institute, Chinese Academy of Agricultural Sciences
       year: 2017-2018
     - course: M.Sc in Crop Genetics and Breeding
-      institution: South-Central Minzu University
+      institution: Huazhong Agricultural University
       year: 2014-2017
     - course: B.Sc in Agriculture
       institution: Huazhong Agricultural University
