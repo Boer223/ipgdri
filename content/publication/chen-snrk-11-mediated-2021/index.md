@@ -9,16 +9,16 @@ authors:
 - Wang Chen
 - Yan Li
 - Ruibin Yan
-- Li Ren
-- Fan Liu
-- Lingyi Zeng
+- renli
+- liufan
+- zenglingyi
 - Shengnan Sun
 - Huihui Yang
-- Kunrong Chen
-- Li Xu
-- Lijiang Liu
-- Xiaoping Fang
-- Shengyi Liu
+- chenkunrong
+- xuli
+- liulijiang
+- fangxiaoping
+- liushengyi
 tags:
 - Arabidopsis
 - Arabidopsis thaliana

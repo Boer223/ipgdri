@@ -7,15 +7,15 @@ subtitle: ''
 summary: ''
 authors:
 - Sumbal Wahid
-- Meili Xie
+- xiemeili
 - Sehrish Sarfraz
-- Jie Liu
-- Chuanji Zhao
-- Zetao Bai
-- Chaobo Tong
-- Xiaohui Cheng
-- Feng Gao
-- Shengyi Liu
+- liujie
+- zhaochuanji
+- baizetao
+- tongchaobo
+- chengxiaohui
+- gaofeng
+- liushengyi
 tags:
 - agronomic traits
 - Ariadne (ARI) proteins

@@ -23,7 +23,7 @@ authors:
 - Ming Zou
 - Jingjing Li
 - Fan Liang
-- Meili Xie
+- xiemeili
 - Jiang Hu
 - Depeng Wang
 - Heping Cao

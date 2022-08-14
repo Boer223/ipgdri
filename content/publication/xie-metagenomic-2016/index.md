@@ -6,7 +6,7 @@ title: Metagenomic Analysis Reveals Symbiotic Relationship among Bacteria in Mic
 subtitle: ''
 summary: ''
 authors:
-- Meili Xie
+- xiemeili
 - Minglei Ren
 - Chen Yang
 - Haisi Yi

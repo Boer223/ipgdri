@@ -6,20 +6,20 @@ title: Mutation of the PHYTOENE DESATURASE 3 gene causes yellowish-white petals 
 subtitle: ''
 summary: ''
 authors:
-- Chuanji Zhao
+- zhaochuanji
 - Luqman Bin Safdar
-- Meili Xie
+- xiemeili
 - Meijuan Shi
-- Zhixue Dong
-- Li Yang
-- Xiaohui Cheng
-- Yueying Liu
-- Zetao Bai
+- dongzhixue
+- yangli
+- chengxiaohui
+- liuyueying
+- baizetao
 - Yang Xiang
-- Chaobo Tong
-- Junyan Huang
-- Lijiang Liu
-- Shengyi Liu
+- tongchaobo
+- huangjunyan
+- liulijiang
+- liushengyi
 tags:
 - BSA-seq
 - Carotenoid biosynthesis

@@ -6,15 +6,15 @@ title: Comparing the Infection Biology of Plasmodiophora brassicae in Clubroot S
 subtitle: ''
 summary: ''
 authors:
-- Lijiang Liu
-- Li Qin
-- Xiaohui Cheng
-- Yi Zhang
-- Li Xu
-- Fan Liu
-- Chaobo Tong
-- Junyan Huang
-- Shengyi Liu
+- liulijiang
+- qinli
+- chengxiaohui
+- zhangyi
+- xuli
+- liufan
+- tongchaobo
+- huangjunyan
+- liushengyi
 - Yangdou Wei
 tags:
 - clubroot disease

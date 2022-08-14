@@ -6,15 +6,15 @@ title: Genome-wide identification and functional exploration of the legume lecti
 subtitle: ''
 summary: ''
 authors:
-- Rong Zuo
-- Meili Xie
-- Feng Gao
-- Jie Liu
+- zuorong
+- xiemeili
+- gaofeng
+- liujie
 - Minqiang Tang
-- Xiaohui Cheng
-- Yueying Liu
-- Zetao Bai
-- Shengyi Liu
+- chengxiaohui
+- liuyueying
+- baizetao
+- liushengyi
 tags: []
 categories: []
 date: '2022-01-01'

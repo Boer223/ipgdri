@@ -6,11 +6,11 @@ title: Putative role of IAA during the early response of Brassica napus L. to Pl
 subtitle: ''
 summary: ''
 authors:
-- Li Xu
-- Li Ren
-- Kunrong Chen
-- Fan Liu
-- Xiaoping Fang
+- xuli
+- renli
+- chenkunrong
+- liufan
+- fangxiaoping
 tags:
 - Brassica napus
 - Clubroot

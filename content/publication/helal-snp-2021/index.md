@@ -6,17 +6,17 @@ subtitle: ''
 summary: ''
 authors:
 - Mmu Helal
-- Rafaqat Ali Gill
+- gill
 - Minqiang Tang
-- Li Yang
-- Ming Hu
-- Lingli Yang
-- Meili Xie
-- Chuanji Zhao
-- Xiaohui Cheng
-- Yuanyuan Zhang
-- Xiong Zhang
-- Shengyi Liu
+- yangli
+- huming
+- yanglingli
+- xiemeili
+- zhaochuanji
+- chengxiaohui
+- zhangyuanyuan
+- zhangxiong
+- liushengyi
 tags:
 - Brassica napus
 - flowering time

@@ -6,18 +6,18 @@ title: Genome-Wide Characterization of Serine/Arginine-Rich Gene Family and Its 
 subtitle: ''
 summary: ''
 authors:
-- Meili Xie
-- Rong Zuo
-- Zetao Bai
-- Lingli Yang
-- Chuanji Zhao
-- Feng Gao
-- Xiaohui Cheng
-- Junyan Huang
-- Yueying Liu
+- xiemeili
+- zuorong
+- baizetao
+- yanglingli
+- zhaochuanji
+- gaofeng
+- chengxiaohui
+- huangjunyan
+- liuyueying
 - Yang Li
-- Chaobo Tong
-- Shengyi Liu
+- tongchaobo
+- liushengyi
 tags:
 - agronomic traits
 - alternative splicing

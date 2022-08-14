@@ -6,8 +6,8 @@ title: The ARP2/3 complex, acting cooperatively with Class I formins, modulates 
 subtitle: ''
 summary: ''
 authors:
-- Li Qin
-- Lijiang Liu
+- qinli
+- liulijiang
 - Jiangying Tu
 - Guogen Yang
 - Sheng Wang

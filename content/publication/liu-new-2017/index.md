@@ -6,7 +6,7 @@ title: 'New insights into reovirus evolution: implications from a newly characte
 subtitle: ''
 summary: ''
 authors:
-- Lijiang Liu
+- liulijiang
 - Jiasen Cheng
 - Yanping Fu
 - Huiquan Liu

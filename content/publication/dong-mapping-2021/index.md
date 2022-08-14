@@ -6,18 +6,18 @@ title: Mapping of a major QTL controlling plant height using a high-density gene
 subtitle: ''
 summary: ''
 authors:
-- Zhixue Dong
+- dongzhixue
 - Muhammad Khorshed Alam
-- Meili Xie
-- Li Yang
-- Jie Liu
+- xiemeili
+- yangli
+- liujie
 - M. M. U. Helal
-- Junyan Huang
-- Xiaohui Cheng
-- Yueying Liu
-- Chaobo Tong
-- Chuanji Zhao
-- Shengyi Liu
+- huangjunyan
+- chengxiaohui
+- liuyueying
+- tongchaobo
+- zhaochuanji
+- liushengyi
 tags:
 - Brassica napus
 - high-density genetic map

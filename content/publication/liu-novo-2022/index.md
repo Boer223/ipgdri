@@ -5,12 +5,12 @@ title: 'De novo design of future rapeseed crops: Challenges and opportunities'
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Harsh Raman
 - Yang Xiang
-- Chuanji Zhao
-- Junyan Huang
-- Yuanyuan Zhang
+- zhaochuanji
+- huangjunyan
+- zhangyuanyuan
 tags:
 - Breeding by genome design
 - Gene editing

@@ -5,13 +5,13 @@ title: Host Range of Plasmodiophora brassicae on Cruciferous Crops and Weeds in 
 subtitle: ''
 summary: ''
 authors:
-- Li Ren
-- Li Xu
-- Fan Liu
-- Kunrong Chen
+- renli
+- xuli
+- liufan
+- chenkunrong
 - Chaochao Sun
 - Jun Li
-- Xiaoping Fang
+- fangxiaoping
 tags: []
 categories: []
 date: '2016-05-01'

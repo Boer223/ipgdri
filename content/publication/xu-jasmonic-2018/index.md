@@ -6,16 +6,16 @@ title: Jasmonic Acid-Mediated Aliphatic Glucosinolate Metabolism Is Involved in 
 subtitle: ''
 summary: ''
 authors:
-- Li Xu
+- xuli
 - Huan Yang
-- Li Ren
+- renli
 - Wang Chen
-- Lijiang Liu
-- Fan Liu
-- Lingyi Zeng
+- liulijiang
+- liufan
+- zenglingyi
 - Ruibin Yan
-- Kunrong Chen
-- Xiaoping Fang
+- chenkunrong
+- fangxiaoping
 tags:
 - Brassica napus
 - clubroot

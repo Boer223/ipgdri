@@ -5,11 +5,11 @@ title: Refining the Life Cycle of Plasmodiophora brassicae
 subtitle: ''
 summary: ''
 authors:
-- Lijiang Liu
-- Li Qin
+- liulijiang
+- qinli
 - Zhuqing Zhou
 - Wilhelmina G. H. M. Hendriks
-- Shengyi Liu
+- liushengyi
 - Yangdou Wei
 tags:
 - Animals

@@ -6,14 +6,14 @@ title: The Characterization of the Phloem Protein 2 Gene Family Associated with 
 subtitle: ''
 summary: ''
 authors:
-- Rong Zuo
-- Meili Xie
-- Feng Gao
+- zuorong
+- xiemeili
+- gaofeng
 - Wahid Sumbal
-- Xiaohui Cheng
-- Yueying Liu
-- Zetao Bai
-- Shengyi Liu
+- chengxiaohui
+- liuyueying
+- baizetao
+- liushengyi
 tags:
 - Ascomycota
 - Brassica napus

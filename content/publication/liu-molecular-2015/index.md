@@ -6,7 +6,7 @@ title: Molecular characterization of a bipartite double-stranded RNA virus and i
 subtitle: ''
 summary: ''
 authors:
-- Lijiang Liu
+- liulijiang
 - Qihua Wang
 - Jiasen Cheng
 - Yanping Fu

@@ -6,7 +6,7 @@ title: Transcriptome, cytological and biochemical analysis of cytoplasmic male s
 subtitle: ''
 summary: ''
 authors:
-- Li Yang
+- yangli
 - Yuanlong Wu
 - Meng Zhang
 - Jinfa Zhang

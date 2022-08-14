@@ -6,17 +6,17 @@ title: Characterization and Fine Mapping of a Yellow-Virescent Gene Regulating C
 subtitle: ''
 summary: ''
 authors:
-- Chuanji Zhao
-- Lijiang Liu
+- zhaochuanji
+- liulijiang
 - Luqman Bin Safdar
-- Meili Xie
-- Xiaohui Cheng
-- Yueying Liu
+- xiemeili
+- chengxiaohui
+- liuyueying
 - Yang Xiang
-- Chaobo Tong
+- tongchaobo
 - Jinxing Tu
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 tags:
 - Brassica napus
 - BSA-seq

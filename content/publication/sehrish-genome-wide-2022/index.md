@@ -8,11 +8,11 @@ summary: ''
 authors:
 - Sarfraz Sehrish
 - Wahid Sumbal
-- Meili Xie
-- Chuanji Zhao
-- Rong Zuo
-- Feng Gao
-- Shengyi Liu
+- xiemeili
+- zhaochuanji
+- zuorong
+- gaofeng
+- liushengyi
 tags:
 - Adaptation
 - Physiological

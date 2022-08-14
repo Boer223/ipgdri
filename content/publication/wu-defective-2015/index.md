@@ -9,7 +9,7 @@ authors:
 - Yuanlong Wu
 - Ling Min
 - Zancheng Wu
-- Li Yang
+- yangli
 - Longfu Zhu
 - Xiyan Yang
 - Daojun Yuan
