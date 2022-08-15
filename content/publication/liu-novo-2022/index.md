@@ -21,7 +21,7 @@ tags:
 - Stress tolerance
 categories: []
 date: '2022-06-01'
-lastmod: 2022-08-13T21:21:14+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:14.039511Z'
+publishDate: '2022-08-15T13:04:16.829253Z'
 publication_types:
 - '2'
 abstract: To address the global demand for rapeseed while considering farmers’ profit,

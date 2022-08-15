@@ -13,14 +13,14 @@ authors:
 - fangxiaoping
 tags:
 - Brassica napus
+- Plasmodiophora brassicae
 - Clubroot
 - Early response
 - IAA
-- Plasmodiophora brassicae
 - Root hair infection
 categories: []
 date: '2016-07-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:14+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:11.954961Z'
+publishDate: '2022-08-15T13:04:14.539250Z'
 publication_types:
 - '2'
 abstract: This study examined the role of indole-3-acetic acid (IAA) during the early

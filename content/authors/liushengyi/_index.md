@@ -6,7 +6,7 @@ title: Shengyi Liu
 superuser: false
 
 # Role/position
-role: Team Principal Scientist
+role: Principal Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Scientist
 ---
 
 Prof. Shengyi Liu's team is working on the structural genome analysis of oilseed crops and new theories of polyploid genome evolution and breeding of *Brassica napus*, genome design breeding technology development and application; discovery of disease resistance resources for major diseases of *Brassica napus*, creation of disease resistance materials and molecular mechanism of disease resistance; research and development of green and efficient disease control technology for *Brassica napus*.

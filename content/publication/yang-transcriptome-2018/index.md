@@ -15,23 +15,23 @@ authors:
 - Jianyong Wu
 - Shuangxia Jin
 tags:
-- Cotton
-- Cytoplasmic male sterility
 - Gene Expression Profiling
-- Gossypium
-- Infertility
+- Oxidation-Reduction
+- RNA-Seq
 - Microscopy
 - Electron
 - Transmission
-- Oxidation-Reduction
 - Pollen
+- Cotton
+- Cytoplasmic male sterility
+- Gossypium
+- Infertility
 - Reactive Oxygen Species
-- RNA-Seq
 - ROS homeostasis
 - Tapetum development
 categories: []
 date: '2018-08-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.796798Z'
+publishDate: '2022-08-15T13:04:16.553933Z'
 publication_types:
 - '2'
 abstract: Key message This research based on RNA-seq, biochemical, and cytological

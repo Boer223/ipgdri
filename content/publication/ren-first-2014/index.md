@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2014-05-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:14+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:12.038449Z'
+publishDate: '2022-08-15T13:04:14.629291Z'
 publication_types:
 - '2'
 abstract: "Shepherd's purse (Capsella bursa-pastoris (L.) Medicus) is an edible and\

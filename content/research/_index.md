@@ -13,8 +13,8 @@ We have completed the de novo genome assembly and pangenome construction of *Bra
 
 ![Evolution of Polyploid Brassiceae Genomes](research-evolution.png "Evolution of Polyploid Brassiceae Genomes")
 
-### Genome Design and Breeding Technology
-We have analyzed the formation mechanism of important agronomic traits in *Brassica napus*, and created high resistance and high quality germplasm resources with high thioside in nutrient tissues and low thioside in seeds that can be directly used in breeding.
+### Genome Design Breeding System
+Integrating the multi-omics data of thousands of *B. napus* accessions, we investigate and constructed the regulatory mechanism and network of important agronomic traits. Combining with genome synthetic biology technology, we created a series of germplasm resources for breeding, such as the high glucosinolate content in vegetative tissues but low in seeds. Now, we are working on building the genome design breeding platform/system to efﬁciently and rapidly design and improve the future rapeseed crops with great increased productivity and proﬁtability.
 
 ![Genome Design and Breeding Technology](research-genome-design.png "Genome Design and Breeding Technology")
 

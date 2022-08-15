@@ -14,34 +14,34 @@ authors:
 - gaofeng
 - liushengyi
 tags:
-- Adaptation
-- Physiological
-- Brassica napus
-- Chromosomes
+- Genome
 - Plant
-- Conserved Sequence
+- Brassica napus
 - Evolution
 - Molecular
 - Gene Expression Regulation
 - Plant
-- gene structure
 - Genes
 - Plant
-- Genome-Wide Association Study
-- Genome
-- Plant
-- histone lysine methyltransferases
-- Histones
 - Multigene Family
-- phylogenetic analysis
-- Plant Proteins
-- PR-SET Domains
-- SET domain
+- Genome-Wide Association Study
+- Adaptation
+- Physiological
 - Stress
 - Physiological
+- Chromosomes
+- Plant
+- gene structure
+- Plant Proteins
+- phylogenetic analysis
+- Conserved Sequence
+- histone lysine methyltransferases
+- Histones
+- PR-SET Domains
+- SET domain
 categories: []
 date: '2022-02-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:15+08:00
 featured: false
 draft: false
 
@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:12.618798Z'
+publishDate: '2022-08-15T13:04:15.272226Z'
 publication_types:
 - '2'
 abstract: SET domain group encoding proteins function as histone lysine methyltransferases.

@@ -1,9 +1,9 @@
 ---
-title: The Innovation Program of Genomics & Disease Resistance Improvement Website is Online
+title: Our Lab Website is Online Now!
 date: 2011-08-12
 ---
 
-The Innovation Program of Genomics & Disease Resistance Improvement Website is Online. Link: http://www.ocri-genomics.net
+Our lab website has moved to http://www.ocri-genomics.net. You can also access to our rich omics databases from this website. Previous website http://www.ocri-genomics.org was terminated.
 
 <!--more-->
 

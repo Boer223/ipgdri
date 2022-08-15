@@ -19,15 +19,15 @@ authors:
 - tongchaobo
 - liushengyi
 tags:
-- agronomic traits
-- alternative splicing
-- association mapping analysis
 - Brassica napus
+- alternative splicing
+- agronomic traits
+- association mapping analysis
 - expression pattern
 - serine/arginine-rich gene family
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:15+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:12.453995Z'
+publishDate: '2022-08-15T13:04:15.089064Z'
 publication_types:
 - '2'
 abstract: 'Serine/arginine-rich (SR) proteins are indispensable factors for RNA splicing,

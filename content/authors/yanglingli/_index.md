@@ -18,12 +18,15 @@ bio:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Ph.D. Candidate
+      institution: Huazhong Agricultural University & Chinese Academy of Agricultural Sciences
+      year: 2018-Now 
+    - course: Working
+      institution: Oil Crops Research Institute, Chinese Academy of Agricultural Sciences
+      year: 2016-2018
+    - course: Master Degree Candidate
+      institution: Huazhong Agricultural University 
+      year: 2014-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -32,19 +35,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/
-  - icon: researchgate
-    icon_pack: ai
-    link: 
+    link: 'mailto:yanglingli1120@163.com'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,3 +55,5 @@ user_groups:
   - Ph.D. Candidates
 ---
 
+- Study on functional differentiation of alternative splicing variants at population level. 
+- Genetic basis analysis of of important traits in *Brassica napus* based on genetic control of expression and splicing.	

@@ -19,7 +19,7 @@ tags:
 - Sclerotinia sclerotiorum
 categories: []
 date: '2017-05-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.632792Z'
+publishDate: '2022-08-15T13:04:16.372307Z'
 publication_types:
 - '2'
 abstract: We performed molecular cloning and complete genome sequencing of a novel

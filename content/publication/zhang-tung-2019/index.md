@@ -31,24 +31,24 @@ authors:
 - Liangsheng Zhang
 - Xiaofeng Tan
 tags:
-- Aleurites
-- Base Sequence
-- Electronic fluorescent pictographic browser
+- Genome
+- Plant
+- Genomics
 - Evolution
 - Molecular
 - Gene Expression Regulation
 - Plant
+- Base Sequence
 - Genome evolution
-- Genome
-- Plant
-- Genomics
+- Aleurites
+- Electronic fluorescent pictographic browser
 - Oil biosynthesis
 - Plant Oils
 - Tung oil
 - Tung tree genome
 categories: []
 date: '2019-12-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:15+08:00
 featured: false
 draft: false
 
@@ -66,7 +66,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.047908Z'
+publishDate: '2022-08-15T13:04:15.728945Z'
 publication_types:
 - '2'
 abstract: Tung tree (Vernicia fordii) is an economically important woody oil plant

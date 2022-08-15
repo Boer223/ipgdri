@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Zetao Bai
+#weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,12 +19,12 @@ bio:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: PostDoc Position
+      institution: Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences
+      year: 2015-2018
+    - course: Ph.D
+      institution: Institute of Genetics and Developemental Biology, Chinese Academy of Sciences
+      year: 2010-2015 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -32,19 +33,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
+    link: 'mailto:baizetao_2005@163.com'
+
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/
-  - icon: researchgate
-    icon_pack: ai
-    link: 
+    link: https://orcid.org/0000-0002-5524-6193
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,3 +58,4 @@ user_groups:
   - Researchers
 ---
 
+Her research focused on *Sclerotinia* disease (SD) resistance in *Brassica napus* by exploring the genetic relationship between *SD* and flowering time, the effect of fusion events between different disease resistance domain on SD resistance in plants. 

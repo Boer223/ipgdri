@@ -1,7 +1,7 @@
 ---
 title: Slider1
 widget: slider
-weight: 1
+weight: 30
 active: true
 headless: true
 
@@ -10,7 +10,7 @@ design:
   slide_height: '700px'
   is_fullscreen: false
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 4000
 

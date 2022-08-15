@@ -13,15 +13,15 @@ authors:
 - Daohong Jiang
 - Jiatao Xie
 tags:
+- Sclerotinia sclerotiorum
 - Botrytis porri
 - botybirnavirus
 - dsRNA mycovirus
 - RNA virus 1
 - satellite-like RNA
-- Sclerotinia sclerotiorum
 categories: []
 date: '2015-01-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.715252Z'
+publishDate: '2022-08-15T13:04:16.463897Z'
 publication_types:
 - '2'
 abstract: A variety of mycoviruses have been found in Sclerotinia sclerotiorum. In

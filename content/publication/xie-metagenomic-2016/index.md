@@ -21,7 +21,7 @@ tags:
 - symbiosis
 categories: []
 date: '2016-01-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:15+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.133495Z'
+publishDate: '2022-08-15T13:04:15.820190Z'
 publication_types:
 - '2'
 abstract: Microcystis bloom, a cyanobacterial mass occurrence often found in eutrophicated

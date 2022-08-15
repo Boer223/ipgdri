@@ -15,19 +15,19 @@ authors:
 - baizetao
 - liushengyi
 tags:
-- Ascomycota
 - Brassica napus
 - Disease Resistance
+- Plant Diseases
+- Phylogeny
+- Ascomycota
 - phloem protein 2
 - phylogenetic analysis
-- Phylogeny
-- Plant Diseases
 - Plant Lectins
 - Sclerotinia disease resistance
 - Tobacco
 categories: []
 date: '2022-04-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:14+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:12.197001Z'
+publishDate: '2022-08-15T13:04:14.813523Z'
 publication_types:
 - '2'
 abstract: In plants, phloem is not only a vital structure that is used for nutrient

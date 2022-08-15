@@ -19,14 +19,14 @@ authors:
 tags:
 - Brassica napus
 - clubroot
-- glucosinolate
+- Plasmodiophora brassicae
 - jasmonic acid
+- glucosinolate
 - Matthiola incana
 - MYB28
-- Plasmodiophora brassicae
 categories: []
 date: '2018-01-01'
-lastmod: 2022-08-13T21:21:11+08:00
+lastmod: 2022-08-15T21:04:14+08:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:11.789719Z'
+publishDate: '2022-08-15T13:04:14.356077Z'
 publication_types:
 - '2'
 abstract: Glucosinolate (GSL) is associated with clubroot disease, which is caused

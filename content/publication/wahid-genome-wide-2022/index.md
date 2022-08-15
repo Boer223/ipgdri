@@ -17,25 +17,25 @@ authors:
 - gaofeng
 - liushengyi
 tags:
-- agronomic traits
-- Ariadne (ARI) proteins
-- association mapping analysis
-- AtARI8
-- B. napus
 - Brassica napus
-- E3 ligases
 - Gene Expression Regulation
 - Plant
 - Genes
 - Plant
-- Ligases
-- phylogenetic analysis
 - Phylogeny
 - Plant Breeding
+- phylogenetic analysis
+- agronomic traits
+- association mapping analysis
+- Ariadne (ARI) proteins
+- AtARI8
+- B. napus
+- E3 ligases
+- Ligases
 - ubiquitination
 categories: []
 date: '2022-06-01'
-lastmod: 2022-08-13T21:21:12+08:00
+lastmod: 2022-08-15T21:04:15+08:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:12.538332Z'
+publishDate: '2022-08-15T13:04:15.178940Z'
 publication_types:
 - '2'
 abstract: E3 ligases promote protein ubiquitination and degradation, which regulate

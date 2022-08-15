@@ -21,17 +21,17 @@ authors:
 - Kenneth E. Wilson
 - Yangdou Wei
 tags:
-- Actin-Related Protein 2-3 Complex
 - Arabidopsis
+- Disease Resistance
+- Plant Diseases
 - Arabidopsis Proteins
 - Ascomycota
-- Disease Resistance
+- Actin-Related Protein 2-3 Complex
 - Formins
-- Plant Diseases
 - Plant Immunity
 categories: []
 date: '2021-09-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.380319Z'
+publishDate: '2022-08-15T13:04:16.097903Z'
 publication_types:
 - '2'
 abstract: The actin cytoskeleton regulates an array of diverse cellular activities

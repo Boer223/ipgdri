@@ -17,14 +17,14 @@ authors:
 - liushengyi
 - Umar Masood Quraishi
 tags:
-- Cadmium
-- Edible Grain
 - Genome-Wide Association Study
 - Phenotype
+- Edible Grain
 - Triticum
+- Cadmium
 categories: []
 date: '2020-07-01'
-lastmod: 2022-08-13T21:21:13+08:00
+lastmod: 2022-08-15T21:04:16+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-13T13:21:13.877373Z'
+publishDate: '2022-08-15T13:04:16.645431Z'
 publication_types:
 - '2'
 abstract: 'Cadmium (Cd) toxicity is a serious threat to future food security and health
