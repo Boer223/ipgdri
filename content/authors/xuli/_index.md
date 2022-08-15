@@ -18,12 +18,12 @@ bio:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: M.Sc & Ph.D
+      institution: Huazhong Agricultural University 
+      year: 2005-2012 
+    - course: B.Sc
+      institution: Huazhong Agricultural University
+      year: 2001-2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -32,19 +32,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
+    link: 'mailto:appletears@163.com'
+
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/
-  - icon: researchgate
-    icon_pack: ai
-    link: 
+    link: https://orcid.org/0000-0003-4062-7476
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,3 +57,4 @@ user_groups:
   - Researchers
 ---
 
+My research work is focusing on the identification of clubroot disease resistant resources and genes which can be used for clubroot disease resistance  improvement in rapeseed，as well as exploring the interaction between plant and *Plasmodiophora brassicae* to reveal the molecular mechanism of clubroot disease resistance.
