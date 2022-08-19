@@ -5,12 +5,12 @@ title: 'De novo design of future rapeseed crops: Challenges and opportunities'
 subtitle: ''
 summary: ''
 authors:
-- liushengyi
+- Shengyi Liu
 - Harsh Raman
 - Yang Xiang
-- zhaochuanji
-- huangjunyan
-- zhangyuanyuan
+- Chuanji Zhao
+- Junyan Huang
+- Yuanyuan Zhang
 tags:
 - Breeding by genome design
 - Gene editing
@@ -21,7 +21,7 @@ tags:
 - Stress tolerance
 categories: []
 date: '2022-06-01'
-lastmod: 2022-08-15T21:04:16+08:00
+lastmod: 2022-08-19T18:46:37+08:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:16.829253Z'
+publishDate: '2022-08-19T10:46:37.196896Z'
 publication_types:
 - '2'
 abstract: To address the global demand for rapeseed while considering farmers’ profit,

@@ -6,14 +6,14 @@ title: The Characterization of the Phloem Protein 2 Gene Family Associated with 
 subtitle: ''
 summary: ''
 authors:
-- zuorong
-- xiemeili
-- gaofeng
+- Rong Zuo
+- Meili Xie
+- Feng Gao
 - Wahid Sumbal
-- chengxiaohui
-- liuyueying
-- baizetao
-- liushengyi
+- Xiaohui Cheng
+- Yueying Liu
+- Zetao Bai
+- Shengyi Liu
 tags:
 - Brassica napus
 - Disease Resistance
@@ -27,7 +27,7 @@ tags:
 - Tobacco
 categories: []
 date: '2022-04-01'
-lastmod: 2022-08-15T21:04:14+08:00
+lastmod: 2022-08-19T18:45:24+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:14.813523Z'
+publishDate: '2022-08-19T10:45:24.829168Z'
 publication_types:
 - '2'
 abstract: In plants, phloem is not only a vital structure that is used for nutrient

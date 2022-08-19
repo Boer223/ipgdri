@@ -6,18 +6,18 @@ title: Genome-Wide Characterization of Serine/Arginine-Rich Gene Family and Its 
 subtitle: ''
 summary: ''
 authors:
-- xiemeili
-- zuorong
-- baizetao
-- yanglingli
-- zhaochuanji
-- gaofeng
-- chengxiaohui
-- huangjunyan
-- liuyueying
+- Meili Xie
+- Rong Zuo
+- Zetao Bai
+- Lingli Yang
+- Chuanji Zhao
+- Feng Gao
+- Xiaohui Cheng
+- Junyan Huang
+- Yueying Liu
 - Yang Li
-- tongchaobo
-- liushengyi
+- Chaobo Tong
+- Shengyi Liu
 tags:
 - Brassica napus
 - alternative splicing
@@ -27,7 +27,7 @@ tags:
 - serine/arginine-rich gene family
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-15T21:04:15+08:00
+lastmod: 2022-08-19T18:46:16+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:15.089064Z'
+publishDate: '2022-08-19T10:46:16.404832Z'
 publication_types:
 - '2'
 abstract: 'Serine/arginine-rich (SR) proteins are indispensable factors for RNA splicing,

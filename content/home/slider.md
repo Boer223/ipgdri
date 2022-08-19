@@ -10,7 +10,7 @@ design:
   slide_height: '700px'
   is_fullscreen: false
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 4000
 
@@ -31,7 +31,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: group-mem-1.jpeg
+        media: group-mem-2.jpeg
     - title: Comprehensive Experimental Base for Breeding & Production
       content: 
       align: center

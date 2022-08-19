@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rafaqat Ali Gill
-
+weight: 70
 # Is this the primary user of the site?
 superuser: false
 
@@ -15,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Bioinformatics
 education:
   courses:
     - course: Research Scientist/Associate Professor 
@@ -66,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Associates
+  - Genomics
 ---
 
 *Brassica napus* L. is a tetraploid crop is ranked second among oilseed crops cultivated around the globe and consumed as edible oil for human consumption, and seed cake for animals. To feed the growing population (~10 billion in 2050), there is utmost need to improve the rapeseed crop, keeping in mind both environmental and developmental cues. In case of environmental cues, Dr. Gill had experiences (in the past) in the areas of plant stress physiology, biochemistry, and molecular biology. Regarding developmental cues, he is currently working on an NSFC-funded project related to the area of population genomics. In this project, he mainly wanted to find the candidate QTLs targeting phenotypic traits (a total of 28) related to growth stages including flowering, plant architecture and seed yield, seed oil content and oil quality. Additionally, he also has interest in the areas of epigenetics and polyploidy. 

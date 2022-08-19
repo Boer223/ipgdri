@@ -1,9 +1,10 @@
 ---
 # Display name
 title: Cuicui Shen
+weight: 20
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor          
@@ -15,6 +16,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+
+interests:
+  - 
 
 education:
   courses:
@@ -62,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Genomics
 ---
 
 Our interest are in genome design breeding technology development and application. 

@@ -6,12 +6,12 @@ title: Enhancing canola breeding by editing a glucosinolate transporter gene lac
 subtitle: ''
 summary: ''
 authors:
-- heyizhou
+- Yizhou He
 - Zhiquan Yang
 - Minqiang Tang
 - Qing-Yong Yang
-- zhangyuanyuan
-- liushengyi
+- Yuanyuan Zhang
+- Shengyi Liu
 tags:
 - Brassica napus
 - Alleles
@@ -20,7 +20,7 @@ tags:
 - Gene Editing
 categories: []
 date: '2022-03-01'
-lastmod: 2022-08-15T21:04:19+08:00
+lastmod: 2022-08-19T18:45:25+08:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:19.312169Z'
+publishDate: '2022-08-19T10:45:25.313801Z'
 publication_types:
 - '2'
 abstract: ''

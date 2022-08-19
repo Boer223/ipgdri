@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yuanyuan Zhang
-
+weight: 30
 # Is this the primary user of the site?
 superuser: false
 
@@ -16,6 +16,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+  - Genome Design Breeding
 education:
   courses:
     - course: Assistant Researcher
@@ -62,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Genomics
 ---
 
 Dr. Yuanyuan Zhang is working on development of genome design breeding system and understanding the asymmetrical polyploid genome evolution, especially in subgenome diploidization and diversification. He integrates the genomic, transcriptomics, metabolic, phenotypic and epigenomic data of thousands of *B. napus* accessions to facilitate genome design breeding. As a part of these he and his partners using a mixture of big data analysis, functional genetics, plant biology, evolutionary biology and transcript/metabolite profiling to develop as in depth and broad a picture as possible.

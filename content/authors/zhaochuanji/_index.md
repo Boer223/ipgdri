@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Chuanji Zhao
+weight: 80
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Functional genomics
 education:
   courses:
     - course: PostDoc Position
@@ -62,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Associates
+  - Genomics
 ---
 
 Insufficient genetic loci for high density and high yield restrict the green revolution in the rapeseed industry. Our aim is to utilize the *Brassica napus* germplasm resource to dissect plant architecture by association and linkage analysis combined with multiple-omics methods in *Brassica napus*, and our current research directions mainly include:

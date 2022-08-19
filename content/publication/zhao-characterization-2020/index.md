@@ -6,17 +6,17 @@ title: Characterization and Fine Mapping of a Yellow-Virescent Gene Regulating C
 subtitle: ''
 summary: ''
 authors:
-- zhaochuanji
-- liulijiang
+- Chuanji Zhao
+- Lijiang Liu
 - Luqman Bin Safdar
-- xiemeili
-- chengxiaohui
-- liuyueying
+- Meili Xie
+- Xiaohui Cheng
+- Yueying Liu
 - Yang Xiang
-- tongchaobo
+- Chaobo Tong
 - Jinxing Tu
-- huangjunyan
-- liushengyi
+- Junyan Huang
+- Shengyi Liu
 tags:
 - Brassica napus
 - Gene Expression Regulation
@@ -35,7 +35,7 @@ tags:
 - leaf color
 categories: []
 date: '2020-09-01'
-lastmod: 2022-08-15T21:04:15+08:00
+lastmod: 2022-08-19T18:46:36+08:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:15.638964Z'
+publishDate: '2022-08-19T10:46:36.909205Z'
 publication_types:
 - '2'
 abstract: Chlorophyll biosynthesis and chloroplast development are crucial to photosynthesis

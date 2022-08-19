@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Li Yang
-
+weight: 130
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,7 +14,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Bioinformatics
 education:
   courses:
     - course: Ph.D. in Plant Science
@@ -63,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Candidates
+  - Genomics
 ---
 Li Yang is currently working on the genetic and molecular mechanisms of black rot resistance in *Brassica napus*. She is always interested in understanding how plant R genes evolve themselves during the long course of co-evolution with pathogens. 

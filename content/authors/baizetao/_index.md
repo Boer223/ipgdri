@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Zetao Bai
-#weight: 1
+weight: 40
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,7 +16,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Functional genomics
 education:
   courses:
     - course: PostDoc Position
@@ -55,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Genomics
 ---
 
 Her research focused on *Sclerotinia* disease (SD) resistance in *Brassica napus* by exploring the genetic relationship between *SD* and flowering time, the effect of fusion events between different disease resistance domain on SD resistance in plants. 

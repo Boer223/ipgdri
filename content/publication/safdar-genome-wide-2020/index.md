@@ -11,10 +11,10 @@ authors:
 - Muhammad Ejaz
 - Zeshan Ali
 - Zahid Mahmood
-- yangli
+- Li Yang
 - Muhammad Massub Tehseen
 - Muhammad Ikram
-- liushengyi
+- Shengyi Liu
 - Umar Masood Quraishi
 tags:
 - Genome-Wide Association Study
@@ -24,7 +24,7 @@ tags:
 - Cadmium
 categories: []
 date: '2020-07-01'
-lastmod: 2022-08-15T21:04:16+08:00
+lastmod: 2022-08-19T18:46:37+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:16.645431Z'
+publishDate: '2022-08-19T10:46:37.100266Z'
 publication_types:
 - '2'
 abstract: 'Cadmium (Cd) toxicity is a serious threat to future food security and health

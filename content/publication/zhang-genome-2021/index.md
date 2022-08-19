@@ -6,10 +6,10 @@ title: Genome Sequence Resource for the Plant Pathogen Sclerotinia sclerotiorum 
 subtitle: ''
 summary: ''
 authors:
-- zhangxiong
-- chengxiaohui
-- liulijiang
-- liushengyi
+- Xiong Zhang
+- Xiaohui Cheng
+- Lijiang Liu
+- Shengyi Liu
 tags:
 - Sequence Analysis
 - DNA
@@ -22,7 +22,7 @@ tags:
 - oilseeds and legumes
 categories: []
 date: '2021-11-01'
-lastmod: 2022-08-15T21:04:16+08:00
+lastmod: 2022-08-19T18:46:16+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:15.915757Z'
+publishDate: '2022-08-19T10:46:16.694322Z'
 publication_types:
 - '2'
 abstract: Sclerotinia sclerotiorum is a notorious fungal pathogen that causes sclerotinia

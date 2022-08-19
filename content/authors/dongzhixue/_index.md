@@ -1,9 +1,9 @@
 ---
 # Display name
 title: Zhixue Dong
-
+weight: 130
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Ph.D. Student
@@ -15,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - 
 education:
   courses:
     - course: 
@@ -61,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Candidates
+  - Disease Resistance
 ---
 

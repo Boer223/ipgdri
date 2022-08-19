@@ -8,15 +8,15 @@ summary: ''
 authors:
 - Yan Li
 - Caihua Dong
-- huming
-- baizetao
-- tongchaobo
-- zuorong
-- liuyueying
-- chengxiaohui
+- Ming Hu
+- Zetao Bai
+- Chaobo Tong
+- Rong Zuo
+- Yueying Liu
+- Xiaohui Cheng
 - Mingxing Cheng
-- huangjunyan
-- liushengyi
+- Junyan Huang
+- Shengyi Liu
 tags:
 - Brassica napus
 - Gene Expression Profiling
@@ -38,7 +38,7 @@ tags:
 - petal
 categories: []
 date: '2019-11-01'
-lastmod: 2022-08-15T21:04:17+08:00
+lastmod: 2022-08-19T18:46:17+08:00
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:17.833636Z'
+publishDate: '2022-08-19T10:46:17.365948Z'
 publication_types:
 - '2'
 abstract: Brassica napus (oilseed rape) is an economically important oil crop worldwide.

@@ -6,15 +6,15 @@ title: Comparing the Infection Biology of Plasmodiophora brassicae in Clubroot S
 subtitle: ''
 summary: ''
 authors:
-- liulijiang
-- qinli
-- chengxiaohui
-- zhangyi
-- xuli
-- liufan
-- tongchaobo
-- huangjunyan
-- liushengyi
+- Lijiang Liu
+- Li Qin
+- Xiaohui Cheng
+- Yi Zhang
+- Li Xu
+- Fan Liu
+- Chaobo Tong
+- Junyan Huang
+- Shengyi Liu
 - Yangdou Wei
 tags:
 - clubroot disease
@@ -24,7 +24,7 @@ tags:
 - resistant host
 categories: []
 date: '2020-01-01'
-lastmod: 2022-08-15T21:04:16+08:00
+lastmod: 2022-08-19T18:45:25+08:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:16.190506Z'
+publishDate: '2022-08-19T10:45:25.215031Z'
 publication_types:
 - '2'
 abstract: The potential infection biology of Plasmodiophora brassicae in resistant

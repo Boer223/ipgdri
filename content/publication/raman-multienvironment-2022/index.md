@@ -11,7 +11,7 @@ authors:
 - Ramethaa Pirathiban
 - Brett McVittie
 - Niharika Sharma
-- liushengyi
+- Shengyi Liu
 - Yu Qiu
 - Anyu Zhu
 - Andrzej Kilian
@@ -21,7 +21,7 @@ authors:
 - Rosemary White
 - David Tabah
 - Andrew Easton
-- zhangyuanyuan
+- Yuanyuan Zhang
 tags:
 - Brassica napus
 - gene expression
@@ -38,7 +38,7 @@ tags:
 - water use
 categories: []
 date: '2022-07-01'
-lastmod: 2022-08-15T21:04:19+08:00
+lastmod: 2022-08-19T18:46:37+08:00
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:19.591302Z'
+publishDate: '2022-08-19T10:46:37.291398Z'
 publication_types:
 - '2'
 abstract: Canola varieties exhibit variation in drought avoidance and drought escape

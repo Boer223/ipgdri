@@ -6,19 +6,19 @@ title: Genome-wide identification and functional exploration of the legume lecti
 subtitle: ''
 summary: ''
 authors:
-- zuorong
-- xiemeili
-- gaofeng
-- liujie
+- Rong Zuo
+- Meili Xie
+- Feng Gao
+- Jie Liu
 - Minqiang Tang
-- chengxiaohui
-- liuyueying
-- baizetao
-- liushengyi
+- Xiaohui Cheng
+- Yueying Liu
+- Zetao Bai
+- Shengyi Liu
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-15T21:04:14+08:00
+lastmod: 2022-08-19T18:45:25+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:14.903538Z'
+publishDate: '2022-08-19T10:45:24.926938Z'
 publication_types:
 - '2'
 abstract: As one of the largest classes of lectins, legume lectins have a variety

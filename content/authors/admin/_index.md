@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Xiaobo Cui
-
+weight: 150
 # Is this the primary user of the site?
 superuser: true
 
@@ -17,9 +17,8 @@ organizations:
 bio: 
 
 interests:
-  - Database & Website Construction
+  - Database Construction
   - Genome Evolution
-  - Data Visualization
 
 education:
   courses:
@@ -66,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Candidates
+  - Genomics
 ---
 
 My Ph.D. research work mainly focus on construction of *Brassica napus* population structural variation and evolution. Currently, I am also interested in *Brassica napus* omics website construction.

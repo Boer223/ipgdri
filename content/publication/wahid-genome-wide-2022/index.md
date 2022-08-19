@@ -7,15 +7,15 @@ subtitle: ''
 summary: ''
 authors:
 - Sumbal Wahid
-- xiemeili
+- Meili Xie
 - Sehrish Sarfraz
-- liujie
-- zhaochuanji
-- baizetao
-- tongchaobo
-- chengxiaohui
-- gaofeng
-- liushengyi
+- Jie Liu
+- Chuanji Zhao
+- Zetao Bai
+- Chaobo Tong
+- Xiaohui Cheng
+- Feng Gao
+- Shengyi Liu
 tags:
 - Brassica napus
 - Gene Expression Regulation
@@ -35,7 +35,7 @@ tags:
 - ubiquitination
 categories: []
 date: '2022-06-01'
-lastmod: 2022-08-15T21:04:15+08:00
+lastmod: 2022-08-19T18:46:16+08:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:15.178940Z'
+publishDate: '2022-08-19T10:46:16.502827Z'
 publication_types:
 - '2'
 abstract: E3 ligases promote protein ubiquitination and degradation, which regulate

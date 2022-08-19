@@ -1,9 +1,9 @@
 ---
 # Display name
 title: Xiaoping Fang
-
+weight: 10
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor
@@ -15,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Plant Protection
 education:
   courses:
     - course: 
@@ -61,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Disease Resistance
 ---
 

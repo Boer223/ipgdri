@@ -6,20 +6,20 @@ title: Mutation of the PHYTOENE DESATURASE 3 gene causes yellowish-white petals 
 subtitle: ''
 summary: ''
 authors:
-- zhaochuanji
+- Chuanji Zhao
 - Luqman Bin Safdar
-- xiemeili
+- Meili Xie
 - Meijuan Shi
-- dongzhixue
-- yangli
-- chengxiaohui
-- liuyueying
-- baizetao
+- Zhixue Dong
+- Li Yang
+- Xiaohui Cheng
+- Yueying Liu
+- Zetao Bai
 - Yang Xiang
-- tongchaobo
-- huangjunyan
-- liulijiang
-- liushengyi
+- Chaobo Tong
+- Junyan Huang
+- Lijiang Liu
+- Shengyi Liu
 tags:
 - RNA-seq
 - BSA-seq
@@ -27,7 +27,7 @@ tags:
 - Yellowish-white flower
 categories: []
 date: '2021-10-01'
-lastmod: 2022-08-15T21:04:16+08:00
+lastmod: 2022-08-19T18:46:37+08:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:16.006373Z'
+publishDate: '2022-08-19T10:46:37.005472Z'
 publication_types:
 - '2'
 abstract: Oilseed rape (Brassica napus) with yellow flowers is an attractive ornamental

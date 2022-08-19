@@ -9,16 +9,16 @@ authors:
 - Wang Chen
 - Yan Li
 - Ruibin Yan
-- renli
-- liufan
-- zenglingyi
+- Li Ren
+- Fan Liu
+- Lingyi Zeng
 - Shengnan Sun
 - Huihui Yang
-- chenkunrong
-- xuli
-- liulijiang
-- fangxiaoping
-- liushengyi
+- Kunrong Chen
+- Li Xu
+- Lijiang Liu
+- Xiaoping Fang
+- Shengyi Liu
 tags:
 - Arabidopsis
 - Disease Resistance
@@ -31,7 +31,7 @@ tags:
 - SnRK1.1
 categories: []
 date: '2021-09-01'
-lastmod: 2022-08-15T21:04:14+08:00
+lastmod: 2022-08-19T18:45:24+08:00
 featured: false
 draft: false
 
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:14.221334Z'
+publishDate: '2022-08-19T10:45:24.672069Z'
 publication_types:
 - '2'
 abstract: Plants have evolved a series of strategies to combat pathogen infection.

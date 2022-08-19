@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Li Ren
-
+weight: 70
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,7 +14,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Disease Resistance
 education:
   courses:
     - course: Ph.D. in Plant Pathology
@@ -50,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Disease Resistance
 ---
 
 My main research interests focus on plant  disease epidemiology and disease management, with the emphasis on Sclerotinia stem rot (SSR) and clubroot of oilseed rape. The scope of our research on SSR and clubroot has ranged from the basic to the applied. This research includes the pathotype composition and diversity in populations of the pathogens, pathogen population dynamics and evolution, infection cycle and integrated control strategy.

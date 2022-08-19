@@ -1,9 +1,9 @@
 ---
 # Display name
 title: Cong Zhou
-
+weight: 100
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Researcher
@@ -15,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Disease Resistance
 education:
   courses:
     - course: M.Sc & Ph.D
@@ -61,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Disease Resistance
 ---
 
 Black rot (*Xanthomonas campestris* pv. *campestris*, *Xcc*) is one of the most devastating disease of *Brassica* crops worldwide. Breeding varieties with black rot resistance genes is the most economical and environmentally friendly way to control black rot. However, *Brassica* germplasm resources for black rot resistance are very scarce, and no black rot resistance genes have been cloned to date, and the mechanism of black rot resistance is still unclear. My ongoing research include 1) cloning and verifying the function of black rot resistance gene, 2) analyzing its molecular mechanism, 3) developing *Brassica* oilseed rape, cabbage and Chinese cabbage germplasms or varieties with broad-spectrum resistance to multiple black rot races. Our major goal is to provide *Brassica* crop breeding with breakthrough resource for the broad-spectrum resistance, but also broaden theoretical knowledge of the crop broad-spectrum resistance.

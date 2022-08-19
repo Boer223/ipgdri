@@ -7,22 +7,22 @@ title: Genome-wide identification and functional analysis of cupin_1 domain-cont
 subtitle: ''
 summary: ''
 authors:
-- heyizhou
+- Yizhou He
 - Yan Li
-- baizetao
-- xiemeili
-- zuorong
-- liujie
+- Zetao Bai
+- Meili Xie
+- Rong Zuo
+- Jie Liu
 - Jing Xia
-- chengxiaohui
-- liuyueying
-- tongchaobo
-- zhangyuanyuan
-- liushengyi
+- Xiaohui Cheng
+- Yueying Liu
+- Chaobo Tong
+- Yuanyuan Zhang
+- Shengyi Liu
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-15T21:04:15+08:00
+lastmod: 2022-08-19T18:45:25+08:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-15T13:04:15.364457Z'
+publishDate: '2022-08-19T10:45:25.022014Z'
 publication_types:
 - '2'
 abstract: Cupin_1 domain-containing proteins (CDPs) are ubiquitously present in higher

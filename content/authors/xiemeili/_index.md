@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Meili Xie
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +15,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+  - Bioinformatics
 education:
   courses:
     - course: M.Sc & Ph.D
@@ -52,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Genomics
 ---
 
 My research is focusing on the regulation mechanism of agronomic traits by transcriptome wide association study.
