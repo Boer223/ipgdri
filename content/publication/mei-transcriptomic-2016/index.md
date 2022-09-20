@@ -9,13 +9,13 @@ authors:
 - Jiaqin Mei
 - Yijuan Ding
 - Yuehua Li
-- Chaobo Tong
+- tongchaobo
 - Hai Du
 - Yang Yu
 - Huafang Wan
 - Qing Xiong
 - Jingyin Yu
-- Shengyi Liu
+- liushengyi
 - Jiana Li
 - Wei Qian
 tags:

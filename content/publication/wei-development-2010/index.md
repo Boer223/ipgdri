@@ -10,7 +10,7 @@ authors:
 - Wenhui Wei
 - Yunchang Li
 - Lijun Wang
-- Shengyi Liu
+- liushengyi
 - Xiaohong Yan
 - Desheng Mei
 - Yinde Li

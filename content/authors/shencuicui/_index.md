@@ -7,7 +7,7 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Professor          
+role: Associate Professor          
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ authors:
 - Hong-Il Choi
 - Kenta Shirasawa
 - Beom-Soon Choi
-- Shengyi Liu
+- liushengyi
 - Ill-Sup Nou
 - Tae-Jin Yang
 tags:

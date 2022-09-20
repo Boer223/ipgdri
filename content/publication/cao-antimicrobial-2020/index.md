@@ -11,9 +11,9 @@ authors:
 - Yanhua Yan
 - Tian Lin
 - Tao Ke
-- Junyan Huang
-- Xiaohui Cheng
-- Shengyi Liu
+- huangjunyan
+- chengxiaohui
+- liushengyi
 tags: []
 categories: []
 date: '2020-01-01'

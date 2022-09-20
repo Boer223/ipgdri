@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Guohua Chai
-- Zetao Bai
+- baizetao
 - li Cai
 - Xuelan Guo
 - Xuekun Zhang
 - Lei Shi
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2009-01-01'

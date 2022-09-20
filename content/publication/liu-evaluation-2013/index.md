@@ -8,10 +8,10 @@ summary: ''
 authors:
 - Lingyan Liu
 - Caihua Dong
-- Xiaohui Cheng
-- Yueying Liu
-- Junyan Huang
-- Shengyi Liu
+- chengxiaohui
+- liuyueying
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2013-01-01'

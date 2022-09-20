@@ -7,18 +7,18 @@ subtitle: ''
 summary: ''
 authors:
 - Fengqi Zhang
-- Junyan Huang
+- huangjunyan
 - Minqiang Tang
-- Xiaohui Cheng
-- Yueying Liu
-- Chaobo Tong
+- chengxiaohui
+- liuyueying
+- tongchaobo
 - Jingyin Yu
 - Tehrim Sadia
 - Caihua Dong
 - Lingyan Liu
 - Baojun Tang
 - Jianguo Chen
-- Shengyi Liu
+- liushengyi
 tags:
 - Brassica napus
 - Genome

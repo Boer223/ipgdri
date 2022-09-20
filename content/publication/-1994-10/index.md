@@ -5,7 +5,7 @@ title: 油菜菌核病抗性毒素草酸鉴定法
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 必文 周
 tags: []
 categories: []

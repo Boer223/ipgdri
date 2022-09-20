@@ -6,7 +6,7 @@ title: Role of sdhA and pfkA and catabolism of reduced carbon during colonizatio
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Xiaojia Hu
 - Scott M. Lohrke
 - C. Jaycn Baker

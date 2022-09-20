@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Minqiang Tang
-- Chaobo Tong
+- tongchaobo
 - Longbin Liang
 - Caifu Du
 - Jixian Zhao

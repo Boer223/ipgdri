@@ -15,7 +15,7 @@ authors:
 - Yan Long
 - Jinling Meng
 - Xiaowu Wang
-- Shengyi Liu
+- liushengyi
 - Martin Trick
 tags:
 - Genome

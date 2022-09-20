@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Guohua Chai
-- Zetao Bai
+- baizetao
 - Fang Wei
 - Graham J. King
 - Chenggang Wang
 - Lei Shi
 - Caihua Dong
 - Hong Chen
-- Shengyi Liu
+- liushengyi
 tags:
 - Genome
 - Plant

@@ -10,11 +10,11 @@ authors:
 - Meixia Zhao
 - Jianchang Du
 - Feng Lin
-- Chaobo Tong
+- tongchaobo
 - Jingyin Yu
 - Shunmou Huang
 - Xiaowu Wang
-- Shengyi Liu
+- liushengyi
 - Jianxin Ma
 tags:
 - Genome

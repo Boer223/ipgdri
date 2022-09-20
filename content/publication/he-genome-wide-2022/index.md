@@ -7,18 +7,18 @@ title: Genome-wide identification and functional analysis of cupin_1 domain-cont
 subtitle: ''
 summary: ''
 authors:
-- Yizhou He
+- heyizhou
 - Yan Li
-- Zetao Bai
-- Meili Xie
-- Rong Zuo
-- Jie Liu
+- baizetao
+- xiemeili
+- zuorong
+- liujie
 - Jing Xia
-- Xiaohui Cheng
-- Yueying Liu
-- Chaobo Tong
-- Yuanyuan Zhang
-- Shengyi Liu
+- chengxiaohui
+- liuyueying
+- tongchaobo
+- zhangyuanyuan
+- liushengyi
 tags: []
 categories: []
 date: '2022-01-01'

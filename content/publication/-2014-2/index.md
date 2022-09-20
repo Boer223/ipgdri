@@ -5,9 +5,9 @@ title: 病虫草害防控发展战略
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
-- 莉 任
-- 晓晖 程
+- liushengyi
+- renli
+- chengxiaohui
 tags: []
 categories: []
 date: '2014-01-01'

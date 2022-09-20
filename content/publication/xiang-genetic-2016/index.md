@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yang Xiang
-- Chaobo Tong
+- tongchaobo
 - Shizhou Yu
 - Tao Zhang
 - Jixian Zhao

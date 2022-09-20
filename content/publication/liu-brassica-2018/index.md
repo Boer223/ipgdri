@@ -5,7 +5,7 @@ title: The Brassica napus genome
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Rod Snowdon
 - Boulos Chalhoub
 tags: []

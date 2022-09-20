@@ -10,7 +10,7 @@ authors:
 - Jun Wang
 - Rifei Sun
 - Jian Wu
-- Shengyi Liu
+- liushengyi
 - Yinqi Bai
 - Jeong-Hwan Mun
 - Ian Bancroft
@@ -32,7 +32,7 @@ authors:
 - Binghang Liu
 - Bo Li
 - Bo Liu
-- Chaobo Tong
+- tongchaobo
 - Chi Song
 - Christopher Duran
 - Chunfang Peng

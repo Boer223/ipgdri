@@ -5,7 +5,7 @@ title: 对油菜菌核病抗性选择压力的探讨
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 必文 周
 tags: []
 categories: []

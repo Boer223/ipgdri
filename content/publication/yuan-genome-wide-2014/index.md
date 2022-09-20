@@ -8,12 +8,12 @@ summary: ''
 authors:
 - Wuzhou Yuan
 - Rongfang Zhou
-- Chaobo Tong
-- Xiaohui Cheng
-- Junyan Huang
+- tongchaobo
+- chengxiaohui
+- huangjunyan
 - Jingyin Yu
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2014-01-01'

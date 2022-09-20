@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Guohua Chai
 - Xianhu Fu
-- Zetao Bai
-- Junyan Huang
-- Shengyi Liu
+- baizetao
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2009-01-01'

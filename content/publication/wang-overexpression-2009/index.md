@@ -12,7 +12,7 @@ authors:
 - Ruiqin Ji
 - Li Cai
 - Hao Fu
-- Shengyi Liu
+- liushengyi
 tags:
 - Brassica napus
 - Gene Expression Regulation

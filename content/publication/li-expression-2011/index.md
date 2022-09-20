@@ -10,9 +10,9 @@ authors:
 - Zhuoyu Wang
 - Xuequn Liu
 - Rui Qin
-- Junyan Huang
+- huangjunyan
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2011-01-01'

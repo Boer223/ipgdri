@@ -5,8 +5,8 @@ title: 油菜黑胫病发生现状与治理对策
 subtitle: ''
 summary: ''
 authors:
-- 莉 任
-- 胜毅 刘
+- renli
+- liushengyi
 tags: []
 categories: []
 date: '2014-04-01'

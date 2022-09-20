@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Haiwen Ji
-- Li Ren
-- Kunrong Chen
-- Li Xu
-- Fan Liu
+- renli
+- chenkunrong
+- xuli
+- liufan
 - Chaochao Sun
 - Jun Li
-- Shengyi Liu
-- Xiaoping Fang
+- liushengyi
+- fangxiaoping
 tags:
 - '306'
 categories: []

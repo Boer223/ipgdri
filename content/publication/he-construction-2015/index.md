@@ -12,7 +12,7 @@ authors:
 - Xiaowu Wang
 - Isobel A. P. Parkin
 - Boulos Chalhoub
-- Shengyi Liu
+- liushengyi
 - Ian Bancroft
 tags: []
 categories: []

@@ -8,13 +8,13 @@ summary: ''
 authors:
 - Boulos Chalhoub
 - France Denoeud
-- Shengyi Liu
+- liushengyi
 - Isobel A. P. Parkin
 - Haibao Tang
 - Xiyin Wang
 - Julien Chiquet
 - Harry Belcram
-- Chaobo Tong
+- tongchaobo
 - Birgit Samans
 - Margot Corréa
 - Corinne Da Silva

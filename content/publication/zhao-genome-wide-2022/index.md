@@ -7,10 +7,10 @@ title: Genome-Wide Association Analysis Combined With Quantitative Trait Loci Ma
 subtitle: ''
 summary: ''
 authors:
-- Chuanji Zhao
-- Meili Xie
+- zhaochuanji
+- xiemeili
 - Longbing Liang
-- Li Yang
+- yangli
 - Hongshi Han
 - Xinrong Qin
 - Jixian Zhao
@@ -18,7 +18,7 @@ authors:
 - Wendong Dai
 - Caifu Du
 - Yang Xiang
-- Shengyi Liu
+- liushengyi
 - Xianqun Huang
 tags:
 - Brassica napus

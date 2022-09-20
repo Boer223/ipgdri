@@ -8,9 +8,9 @@ authors:
 - Haibo Sun
 - Zhihui Wang
 - Xuequn Liu
-- Junyan Huang
+- huangjunyan
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2012-01-01'

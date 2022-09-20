@@ -10,10 +10,10 @@ authors:
 - Caihua Dong
 - Jingyin Yu
 - Lei Shi
-- Chaobo Tong
+- tongchaobo
 - Zhenbo Li
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2014-01-01'

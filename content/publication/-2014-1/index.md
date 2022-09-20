@@ -5,8 +5,8 @@ title: 油菜有害生物名录
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
-- 晓晖 程
+- liushengyi
+- chengxiaohui
 tags: []
 categories: []
 date: '2014-05-01'

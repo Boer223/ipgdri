@@ -5,7 +5,7 @@ title: Proceedings of the 12th International Rapeseed Congress Vol IV Plant Prot
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Guoqing Li
 - Junbin Huang
 tags: []

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - XiaoJia Hu
-- Shengyi Liu
+- liushengyi
 - Jiankun Zhang
 - Qinjie Huang
 tags: []

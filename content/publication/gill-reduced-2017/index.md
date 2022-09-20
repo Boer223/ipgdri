@@ -9,13 +9,13 @@ authors:
 - Rafaqat A. Gill
 - Basharat Ali
 - Su Yang
-- Chaobo Tong
+- tongchaobo
 - Faisal Islam
 - Muhammad Bilal Gill
 - Theodore M. Mwamba
 - Skhawat Ali
 - Bizeng Mao
-- Shengyi Liu
+- liushengyi
 - Weijun Zhou
 tags:
 - Brassica napus L.

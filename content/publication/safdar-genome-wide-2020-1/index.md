@@ -12,7 +12,7 @@ authors:
 - Muhammad Jawad Umer
 - Minqiang Tang
 - Xiang Li
-- Shengyi Liu
+- liushengyi
 - Umar Masood Quraishi
 tags:
 - marker-trait associations

@@ -6,10 +6,10 @@ title: The Brassica oleracea genome reveals the asymmetrical evolution of polypl
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Yumei Liu
 - Xinhua Yang
-- Chaobo Tong
+- tongchaobo
 - David Edwards
 - Isobel A. P. Parkin
 - Meixia Zhao
@@ -63,7 +63,7 @@ authors:
 - Zhiyong Hu
 - Mu Zhuang
 - Yi Huang
-- Junyan Huang
+- huangjunyan
 - Jiaqin Shi
 - Desheng Mei
 - Jing Liu

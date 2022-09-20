@@ -9,7 +9,7 @@ authors:
 - Jing Liu
 - Shunmou Huang
 - Meiyu Sun
-- Shengyi Liu
+- liushengyi
 - Yumei Liu
 - Wanxing Wang
 - Xiurong Zhang

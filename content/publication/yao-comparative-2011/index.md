@@ -10,7 +10,7 @@ authors:
 - Haiyan Sun
 - Fangsen Xu
 - Xuejiang Zhang
-- Shengyi Liu
+- liushengyi
 tags:
 - Brassica napus
 - Gene Expression Regulation

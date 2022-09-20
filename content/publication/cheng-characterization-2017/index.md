@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Mingxing Cheng
-- Chaobo Tong
-- Xiaohui Cheng
-- Yueying Liu
-- Lijiang Liu
+- tongchaobo
+- chengxiaohui
+- liuyueying
+- liulijiang
 - Guohua Chai
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2017-01-01'

@@ -5,7 +5,7 @@ title: The Brassica oleracea Genome
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Rod Snowdon
 - Chitta Kole
 tags: []

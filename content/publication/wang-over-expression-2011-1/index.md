@@ -9,10 +9,10 @@ authors:
 - Chenggang Wang
 - Li Cai
 - Caihua Dong
-- Junyan Huang
+- huangjunyan
 - Meixia Zhao
 - Rong Zhou
-- Shengyi Liu
+- liushengyi
 tags:
 - Sclerotinia sclerotiorum
 - 核盘菌

@@ -12,7 +12,7 @@ authors:
 - Jinyin Yu
 - Xinfa Wang
 - Wei Hua
-- Shengyi Liu
+- liushengyi
 - Guihua Liu
 - Hanzhong Wang
 tags:

@@ -11,9 +11,9 @@ authors:
 - Minqiang Tang
 - Fengqi Zhang
 - Caihua Dong
-- Chaobo Tong
-- Junyan Huang
-- Shengyi Liu
+- tongchaobo
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2015-01-01'

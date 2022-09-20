@@ -8,11 +8,11 @@ summary: ''
 authors:
 - Dian Wang
 - Hua Xu
-- Junyan Huang
+- huangjunyan
 - Yingzhen Kong
 - Synan AbuQamar
 - Diqiu Yu
-- Shengyi Liu
+- liushengyi
 - Gongke Zhou
 - Guohua Chai
 tags:

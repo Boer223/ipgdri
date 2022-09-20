@@ -9,14 +9,14 @@ authors:
 - Jingyin Yu
 - Sadia Tehrim
 - Fengqi Zhang
-- Chaobo Tong
-- Junyan Huang
-- Xiaohui Cheng
+- tongchaobo
+- huangjunyan
+- chengxiaohui
 - Caihua Dong
 - Yanqiu Zhou
 - Rui Qin
 - Wei Hua
-- Shengyi Liu
+- liushengyi
 tags:
 - Genome
 - Plant

@@ -7,7 +7,7 @@ weight: 90
 superuser: false
 
 # Role/position
-role: Assistant Researcher
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

@@ -5,7 +5,7 @@ title: 核盘菌菌丝生长和产草酸的营养和环境条件研究
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 必文 周
 tags: []
 categories: []

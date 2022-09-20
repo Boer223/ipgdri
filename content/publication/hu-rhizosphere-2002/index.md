@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xiaojia Hu
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2002-01-01'

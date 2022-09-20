@@ -13,7 +13,7 @@ authors:
 - Fanghe Zhu
 - Yanbin Hong
 - Boshou Liao
-- Shengyi Liu
+- liushengyi
 - Xuanqiang Liang
 tags:
 - Gene Expression Profiling

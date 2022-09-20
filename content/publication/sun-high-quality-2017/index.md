@@ -11,7 +11,7 @@ authors:
 - Qiong Hu
 - Yongming Zhou
 - Mei Guan
-- Chaobo Tong
+- tongchaobo
 - Jiana Li
 - Dezhi Du
 - Cunkou Qi
@@ -41,7 +41,7 @@ authors:
 - Simon Ming-Yuen Lee
 - Chunyun Guan
 - Xun Xu
-- Shengyi Liu
+- liushengyi
 - Xin Liu
 - Boulos Chalhoub
 - Wei Hua

@@ -6,12 +6,12 @@ title: Enhancing canola breeding by editing a glucosinolate transporter gene lac
 subtitle: ''
 summary: ''
 authors:
-- Yizhou He
+- heyizhou
 - Zhiquan Yang
 - Minqiang Tang
 - Qing-Yong Yang
-- Yuanyuan Zhang
-- Shengyi Liu
+- zhangyuanyuan
+- liushengyi
 tags:
 - Brassica napus
 - Alleles

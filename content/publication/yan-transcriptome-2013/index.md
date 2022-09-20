@@ -14,7 +14,7 @@ authors:
 - Chenghong Jiang
 - Jia Liu
 - Qiong Hu
-- Xiaoping Fang
+- fangxiaoping
 - Wenhui Wei
 tags:
 - Gene Expression Profiling

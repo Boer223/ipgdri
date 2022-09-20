@@ -5,13 +5,13 @@ title: 油菜根肿病对油菜产量的影响
 subtitle: ''
 summary: ''
 authors:
-- 晓晖 程
+- chengxiaohui
 - 勇 刘
 - 树敏 侯
 - 宝成 胡
 - 莉 任
 - 小平 方
-- 胜毅 刘
+- liushengyi
 tags: []
 categories: []
 date: '2014-04-01'

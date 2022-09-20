@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Linhai Wang
 - Sheng Yu
-- Chaobo Tong
+- tongchaobo
 - Yingzhong Zhao
 - Yan Liu
 - Chi Song
@@ -26,7 +26,7 @@ authors:
 - Junyi Wang
 - Xun Xu
 - Yingrui Li
-- Shengyi Liu
+- liushengyi
 - Rajeev K. Varshney
 - Jun Wang
 - Xiurong Zhang

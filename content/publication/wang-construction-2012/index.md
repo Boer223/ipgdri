@@ -13,7 +13,7 @@ authors:
 - Limei Yang
 - Wei Hua
 - Suxia Yuan
-- Shengyi Liu
+- liushengyi
 - Jifeng Sun
 - Mu Zhuang
 - Yangyong Zhang

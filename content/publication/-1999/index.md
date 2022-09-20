@@ -7,8 +7,8 @@ summary: ''
 authors:
 - 子林 于
 - 宗义 张
-- 小平 方
-- 胜毅 刘
+- fangxiaoping
+- liushengyi
 tags: []
 categories: []
 date: '1999-01-01'

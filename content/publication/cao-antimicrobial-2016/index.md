@@ -10,9 +10,9 @@ authors:
 - Caihua Dong
 - Jingyin Yu
 - Tao Ke
-- Chaobo Tong
-- Junyan Huang
-- Shengyi Liu
+- tongchaobo
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2016-01-01'

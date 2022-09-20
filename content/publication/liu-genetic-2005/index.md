@@ -6,7 +6,7 @@ title: Genetic analysis of resistance to Sclerotinia sclerotiorum and its toxin 
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Jiankun Zhang
 - ZeYong Xu
 - Liyuan He

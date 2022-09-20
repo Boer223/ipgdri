@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Ian J. Girard
-- Chaobo Tong
+- tongchaobo
 - Michael G. Becker
 - Xingyu Mao
-- Junyan Huang
+- huangjunyan
 - Teresa de Kievit
 - W. G. Dilantha Fernando
-- Shengyi Liu
+- liushengyi
 - Mark F. Belmonte
 tags:
 - Brassica napus

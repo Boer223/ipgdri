@@ -12,8 +12,8 @@ authors:
 - Han Mao
 - Jibao Chen
 - Caihua Dong
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 - Jianxiong Kang
 - Dongqi Liu
 - Xiangdong Ma

@@ -8,15 +8,15 @@ summary: ''
 authors:
 - Yan Li
 - Caihua Dong
-- Ming Hu
-- Zetao Bai
-- Chaobo Tong
-- Rong Zuo
-- Yueying Liu
-- Xiaohui Cheng
+- huming
+- baizetao
+- tongchaobo
+- zuorong
+- liuyueying
+- chengxiaohui
 - Mingxing Cheng
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 tags:
 - Brassica napus
 - Gene Expression Profiling

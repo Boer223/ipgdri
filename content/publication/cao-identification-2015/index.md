@@ -12,8 +12,8 @@ authors:
 - Jingyin Yu
 - Caihua Dong
 - Mingxing Cheng
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 tags:
 - Brassica napus
 - Gene Expression Regulation

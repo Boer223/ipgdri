@@ -6,7 +6,7 @@ title: UPTAKE,TRANSPORT AND DISTRIBUTION OF OXALATE BY RAPESEED VARIETIES WITH D
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '1997-01-01'

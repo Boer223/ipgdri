@@ -10,10 +10,10 @@ authors:
 - Brett McVittie
 - Ramethaa Pirathiban
 - Rosy Raman
-- Yuanyuan Zhang
+- zhangyuanyuan
 - Denise M. Barbulescu
 - Yu Qiu
-- Shengyi Liu
+- liushengyi
 - Brian Cullis
 tags:
 - linkage disequilibrium

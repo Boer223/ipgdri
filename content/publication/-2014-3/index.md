@@ -5,16 +5,16 @@ title: 油菜菌核病对油菜产量的影响
 subtitle: ''
 summary: ''
 authors:
-- 晓晖 程
+- chengxiaohui
 - 茂盛 郭
 - 树敏 侯
 - 宝成 胡
 - 勇 刘
 - 瑞生 王
 - 德志 杜
-- 越英 刘
-- 军艳 黄
-- 胜毅 刘
+- liuyueying
+- huangjunyan
+- liushengyi
 tags: []
 categories: []
 date: '2014-04-01'

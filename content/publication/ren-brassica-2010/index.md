@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Qiuhong Ren
-- Junyan Huang
+- huangjunyan
 - Han Mao
 - Baoming Tian
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2010-01-01'

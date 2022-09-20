@@ -5,7 +5,7 @@ title: Inheritance of resistance to Sclerotinia sclerotiorumlesion expansion in 
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Biwen Zhou
 - Jiankun Zhang
 - Xuelan Guo

@@ -9,8 +9,8 @@ authors:
 - Quan Chen
 - Jie Wang
 - Mingsheng Hou
-- Shengyi Liu
-- Junyan Huang
+- liushengyi
+- huangjunyan
 - Li Cai
 tags:
 - Brassica napus

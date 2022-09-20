@@ -10,10 +10,10 @@ authors:
 - Federico Scossa
 - Graham J. King
 - Agnieszka A. Golicz
-- Chaobo Tong
+- tongchaobo
 - Rod J. Snowdon
 - Alisdair R. Fernie
-- Shengyi Liu
+- liushengyi
 tags:
 - polyploidy
 - epigenetics

@@ -15,7 +15,7 @@ authors:
 - Yu-Long Li
 - Yan-Hua Yang
 - Ke-Ming Zhu
-- Shengyi Liu
+- liushengyi
 - Xiao-Li Tan
 tags:
 - Brassica napus

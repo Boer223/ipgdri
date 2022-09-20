@@ -9,9 +9,9 @@ authors:
 - Qi Pan
 - Bin Zhu
 - Dawei Zhang
-- Chaobo Tong
+- tongchaobo
 - Xianhong Ge
-- Shengyi Liu
+- liushengyi
 - Zaiyun Li
 tags:
 - Brassica napus

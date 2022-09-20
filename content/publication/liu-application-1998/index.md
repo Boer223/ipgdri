@@ -6,7 +6,7 @@ title: APPLICATION OF OXALIC ACID FOR SCREENING RESISTANCE OILSEED RAPE TO SCLER
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Biwen Zhou
 tags: []
 categories: []

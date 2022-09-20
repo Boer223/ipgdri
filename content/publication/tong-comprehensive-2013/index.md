@@ -6,15 +6,15 @@ title: Comprehensive analysis of RNA-seq data reveals the complexity of the tran
 subtitle: ''
 summary: ''
 authors:
-- Chaobo Tong
+- tongchaobo
 - Xiaowu Wang
 - Jingyin Yu
 - Jian Wu
 - Wanshun Li
-- Junyan Huang
+- huangjunyan
 - Caihua Dong
 - Wei Hua
-- Shengyi Liu
+- liushengyi
 tags:
 - Sequence Analysis
 - DNA

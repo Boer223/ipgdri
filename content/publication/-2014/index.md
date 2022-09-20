@@ -5,7 +5,7 @@ title: 油菜病虫害
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 宝成 胡
 tags: []
 categories: []

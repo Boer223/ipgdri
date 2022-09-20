@@ -7,14 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Rongfang Zhou
-- Yuanyuan Zhang
-- Chaobo Tong
-- Junyan Huang
-- Xiaohui Cheng
+- zhangyuanyuan
+- tongchaobo
+- huangjunyan
+- chengxiaohui
 - Jingyin Yu
 - Caihua Dong
-- Yueying Liu
-- Shengyi Liu
+- liuyueying
+- liushengyi
 tags: []
 categories: []
 date: '2014-01-01'

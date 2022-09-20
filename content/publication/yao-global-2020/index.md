@@ -9,12 +9,12 @@ summary: ''
 authors:
 - Shengli Yao
 - Fan Liang
-- Rafaqat Ali Gill
-- Junyan Huang
-- Xiaohui Cheng
-- Yueying Liu
-- Chaobo Tong
-- Shengyi Liu
+- gill
+- huangjunyan
+- chengxiaohui
+- liuyueying
+- tongchaobo
+- liushengyi
 tags:
 - polyploidy
 - High-Throughput Nucleotide Sequencing

@@ -5,7 +5,7 @@ title: 油菜病虫草害防治彩色图说
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 奇祥 马
 tags: []
 categories: []

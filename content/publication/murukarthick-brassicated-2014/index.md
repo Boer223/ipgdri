@@ -11,7 +11,7 @@ authors:
 - Sang Choon Lee
 - Beom-Soon Choi
 - Natesan Senthil
-- Shengyi Liu
+- liushengyi
 - Tae-Jin Yang
 tags:
 - Genome

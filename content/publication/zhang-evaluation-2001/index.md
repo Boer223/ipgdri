@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Xiurong Zhang
 - Yong Cheng
-- Shengyi Liu
+- liushengyi
 - Xiangyun Feng
 - Limin Jin
 - Qiaoling Jin

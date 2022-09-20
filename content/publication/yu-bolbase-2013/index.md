@@ -8,12 +8,12 @@ authors:
 - Jingyin Yu
 - Meixia Zhao
 - Xiaowu Wang
-- Chaobo Tong
+- tongchaobo
 - Shunmou Huang
 - Sadia Tehrim
 - Yumei Liu
 - Wei Hua
-- Shengyi Liu
+- liushengyi
 tags:
 - Genome
 - Plant

@@ -6,7 +6,7 @@ title: Cloning of plant defensin and oxalic acid oxidase genes and expressions o
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Renhu Liu
 - Caihua Dong
 - Yongju Huang

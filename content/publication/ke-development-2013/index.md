@@ -12,7 +12,7 @@ authors:
 - Jingyin Yu
 - Yingzhong Zhao
 - Hongyan Liu
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2013-01-01'

@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Zhihui Wang
-- Chaobo Tong
+- tongchaobo
 - Wuzhou Yuan
 - Xuequn Liu
-- Xiaohui Cheng
+- chengxiaohui
 - Jingyin Yu
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2013-01-01'

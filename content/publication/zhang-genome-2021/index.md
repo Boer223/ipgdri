@@ -6,10 +6,10 @@ title: Genome Sequence Resource for the Plant Pathogen Sclerotinia sclerotiorum 
 subtitle: ''
 summary: ''
 authors:
-- Xiong Zhang
-- Xiaohui Cheng
-- Lijiang Liu
-- Shengyi Liu
+- zhangxiong
+- chengxiaohui
+- liulijiang
+- liushengyi
 tags:
 - Sequence Analysis
 - DNA

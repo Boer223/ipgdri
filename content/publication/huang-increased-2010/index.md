@@ -6,10 +6,10 @@ title: Increased susceptibility of Arabidopsis to Sclerotinia sclerotiorum by ar
 subtitle: ''
 summary: ''
 authors:
-- Junyan Huang
+- huangjunyan
 - Liming Xu
 - Xuejiang Zhang
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2010-01-01'

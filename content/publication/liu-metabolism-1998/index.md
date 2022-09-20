@@ -6,7 +6,7 @@ title: METABOLISM OF OXALATE BY OILSEED RAPE AND RESISTANCE MECHANISM TO SCLEROT
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Biwen Zhou
 - Jiarong Pan
 tags: []

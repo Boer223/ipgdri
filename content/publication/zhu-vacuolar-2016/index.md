@@ -7,16 +7,16 @@ subtitle: ''
 summary: ''
 authors:
 - Wei Zhu
-- Rong Zuo
+- zuorong
 - Rongfang Zhou
-- Junyan Huang
+- huangjunyan
 - Minqiang Tang
-- Xiaohui Cheng
-- Yueying Liu
-- Chaobo Tong
+- chengxiaohui
+- liuyueying
+- tongchaobo
 - Yang Xiang
 - Caihua Dong
-- Shengyi Liu
+- liushengyi
 tags:
 - Brassica napus
 - BnMEB2

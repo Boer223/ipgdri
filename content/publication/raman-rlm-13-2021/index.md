@@ -9,9 +9,9 @@ authors:
 - Harsh Raman
 - Rosy Raman
 - Yu Qiu
-- Yuanyuan Zhang
+- zhangyuanyuan
 - Jacqueline Batley
-- Shengyi Liu
+- liushengyi
 tags:
 - canola
 - natural variation

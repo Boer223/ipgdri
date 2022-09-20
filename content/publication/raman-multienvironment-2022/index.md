@@ -11,7 +11,7 @@ authors:
 - Ramethaa Pirathiban
 - Brett McVittie
 - Niharika Sharma
-- Shengyi Liu
+- liushengyi
 - Yu Qiu
 - Anyu Zhu
 - Andrzej Kilian
@@ -21,7 +21,7 @@ authors:
 - Rosemary White
 - David Tabah
 - Andrew Easton
-- Yuanyuan Zhang
+- zhangyuanyuan
 tags:
 - Brassica napus
 - gene expression

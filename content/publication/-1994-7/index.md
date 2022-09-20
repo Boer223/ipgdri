@@ -5,7 +5,7 @@ title: 油菜对菌核病抗性稳定性分析
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 - 必文 周
 tags: []
 categories: []

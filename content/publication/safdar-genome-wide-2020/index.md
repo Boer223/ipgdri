@@ -11,10 +11,10 @@ authors:
 - Muhammad Ejaz
 - Zeshan Ali
 - Zahid Mahmood
-- Li Yang
+- yangli
 - Muhammad Massub Tehseen
 - Muhammad Ikram
-- Shengyi Liu
+- liushengyi
 - Umar Masood Quraishi
 tags:
 - Genome-Wide Association Study

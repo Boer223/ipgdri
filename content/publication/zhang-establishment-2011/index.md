@@ -8,8 +8,8 @@ subtitle: ''
 summary: ''
 authors:
 - Biao Zhang
-- Junyan Huang
-- Shengyi Liu
+- huangjunyan
+- liushengyi
 - Meixia Zhao
 - Chenggang Wang
 - Caihua Dong

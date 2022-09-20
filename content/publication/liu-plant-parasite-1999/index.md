@@ -5,7 +5,7 @@ title: Plant-parasite Interactions and Molecular Mechanism of Resistance
 subtitle: ''
 summary: ''
 authors:
-- Shengyi Liu
+- liushengyi
 - Zeyong Xu
 - Liyuan He
 tags: []

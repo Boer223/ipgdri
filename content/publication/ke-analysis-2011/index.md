@@ -13,8 +13,8 @@ authors:
 - Hong Chen
 - Hongyan Liu
 - Xuyan Dong
-- Chaobo Tong
-- Shengyi Liu
+- tongchaobo
+- liushengyi
 tags:
 - Crops
 - Agricultural

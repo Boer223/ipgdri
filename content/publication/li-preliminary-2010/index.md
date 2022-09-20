@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Dan Li
-- Junyan Huang
+- huangjunyan
 - Xuejiang Zhang
 - Xuequn Liu
 - Rui Qin
-- Shengyi Liu
+- liushengyi
 tags: []
 categories: []
 date: '2010-01-01'

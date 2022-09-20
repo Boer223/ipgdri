@@ -6,6 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - ' 油菜菌核病综防课题组'
+- liushengyi
 tags: []
 categories: []
 date: '1994-01-01'

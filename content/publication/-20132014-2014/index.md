@@ -6,6 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - ' 中国农业科学院油料作物研究所农业部油料作物生物学重点实验室油菜病害与抗病性课题组'
+- liushengyi
 tags: []
 categories: []
 date: '2014-07-01'

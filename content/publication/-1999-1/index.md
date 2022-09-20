@@ -5,7 +5,7 @@ title: 油菜抗菌核病遗传、机制和单倍体体细胞突变研究
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 tags: []
 categories: []
 date: '1999-01-01'

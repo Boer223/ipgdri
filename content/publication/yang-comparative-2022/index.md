@@ -6,12 +6,12 @@ title: Comparative transcriptome analysis of compatible and incompatible Brassic
 subtitle: ''
 summary: ''
 authors:
-- Li Yang
-- Chuanji Zhao
-- Zetao Bai
-- Lingli Yang
+- yangli
+- zhaochuanji
+- baizetao
+- yanglingli
 - Michael Eric Schranz
-- Shengyi Liu
+- liushengyi
 - Klaas Bouwmeester
 tags: []
 categories: []

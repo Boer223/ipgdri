@@ -11,7 +11,7 @@ authors:
 - Caihua Dong
 - Han Mao
 - Wei Hua
-- Shengyi Liu
+- liushengyi
 tags:
 - Crops
 - Agricultural

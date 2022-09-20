@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Feng Cheng
-- Shengyi Liu
+- liushengyi
 - Jian Wu
 - Lu Fang
 - Silong Sun

@@ -14,7 +14,7 @@ authors:
 - Joseph Onwusemu Disi
 - Jiana Li
 - Liezhao Liu
-- Shengyi Liu
+- liushengyi
 - John McKay
 - Wei Qian
 tags:

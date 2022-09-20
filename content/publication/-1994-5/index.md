@@ -5,7 +5,7 @@ title: 油菜菌核病菌的遗传学和病菌与寄主的互作研究
 subtitle: ''
 summary: ''
 authors:
-- 胜毅 刘
+- liushengyi
 tags: []
 categories: []
 date: '1994-01-01'

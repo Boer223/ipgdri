@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Tao Ke
 - Huihui Cao
-- Junyan Huang
+- huangjunyan
 - Fan Hu
 - Jin Huang
 - Caihua Dong

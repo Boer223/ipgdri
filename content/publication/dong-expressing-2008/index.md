@@ -12,9 +12,9 @@ authors:
 - Simon J. Foster
 - Hong Chen
 - Caihua Dong
-- Yueying Liu
+- liuyueying
 - Qiong Hu
-- Shengyi Liu
+- liushengyi
 tags:
 - Brassica napus
 - Plant Diseases
