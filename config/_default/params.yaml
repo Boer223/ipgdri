@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Genomics & Disease Resistance Improvement. This work is licensed under {license}. <br> ICP Record: <a href="https://beian.miit.gov.cn">鄂ICP备2022015323号</a>'
+    notice: '© {year} Genomics & Disease Resistance Improvement. This work is licensed under {license}. <br> ICP Record: <a href="https://beian.miit.gov.cn">鄂ICP备2022015323号-1</a>'
     license:
       enable: true
       allow_derivatives: false
