@@ -1,0 +1,10 @@
+#!/bin/bash
+
+USER=root
+HOST=118.195.251.60
+DIR=public   # the directory where your web site files should go
+
+rsync -avz --delete ./ ${USER}@${HOST}:/var/www/ocri-genomics.net
+
+exit 0
+
