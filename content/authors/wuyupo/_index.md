@@ -24,7 +24,7 @@ education:
       year: 2019-
     - course: B.Sc
       institution: Guilin Medical University
-      year: 2001-2005
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
