@@ -32,7 +32,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: group-mem-2.jpeg
-    - title: Comprehensive Experimental Base for Breeding & Production
+    - title: Field Experiment Station 
       content: 
       align: center
       background:
@@ -40,7 +40,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: experimental-base-1.jpeg
-    - title: Comprehensive Experimental Base for Breeding & Production
+    - title: Field Experiment Station 
       content: 
       align: center
       background:
@@ -56,7 +56,7 @@ content:
         color: '#333'
         brightness: 0.5
         media: hpc-server-2.jpeg
-    - title: Meeting Room
+    - title: Seminar Room
       content: 
       align: center
       background:

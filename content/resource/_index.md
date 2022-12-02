@@ -9,6 +9,6 @@ design:
 ---
 
 ### From our team
-- [BnaOmics](https://bnaomics.ocri-genomics.net/): A Comprehensive Platform Combining Pan-genome and Multiple Omics Data of *Brassica napus*
+- [BnaOmics](): A Comprehensive Platform Combining Pan-genome and Multiple Omics Data of *Brassica napus*
 
 ### Others

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chaobo Tong
+title: Chaobo Tong, Ph.D.
 weight: 10
 
 # Is this the primary user of the site?

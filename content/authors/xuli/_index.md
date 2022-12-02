@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Xu
+title: Li Xu, Ph.D.
 weight: 90
 # Is this the primary user of the site?
 superuser: false

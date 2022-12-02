@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zetao Bai
+title: Zetao Bai, Ph.D.
 weight: 40
 
 # Is this the primary user of the site?
@@ -58,5 +58,4 @@ highlight_name: false
 user_groups:
   - Genomics
 ---
-
-Her research focused on *Sclerotinia* disease (SD) resistance in *Brassica napus* by exploring the genetic relationship between *SD* and flowering time, the effect of fusion events between different disease resistance domain on SD resistance in plants. 
+Her research focused on *Sclerotinia* disease (SD) resistance in *Brassica napus* by exploring the genetic relationship between *SD* and flowering time, the effect of fusion events between different disease resistance domain on SD resistance in plants.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shengyi Liu
+title: Shengyi Liu, Ph.D.
 weight: 1
 
 # Is this the primary user of the site?

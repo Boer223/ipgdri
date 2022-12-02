@@ -20,12 +20,12 @@ interests:
   - Bioinformatics
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Ph.D. Candidate
+      institution: Huazhong Agricultural University & Chinese Academy of Agricultural Sciences
+      year: 2018-
+    - course: Master Degree Candidate
+      institution: Chinese Academy of Agricultural Sciences
+      year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:huming199217@126.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -66,3 +66,4 @@ user_groups:
   - Genomics
 ---
 
+My research work is focusing on *B. napus* genomics and bioinformatics. 

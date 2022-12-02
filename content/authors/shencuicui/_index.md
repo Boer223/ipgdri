@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cuicui Shen
+title: Cuicui Shen, Ph.D.
 weight: 20
 
 # Is this the primary user of the site?

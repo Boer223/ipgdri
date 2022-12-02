@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiong Zhang
+title: Xiong Zhang, Ph.D.
 weight: 80
 
 # Is this the primary user of the site?

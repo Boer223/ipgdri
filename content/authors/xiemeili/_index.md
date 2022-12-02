@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Meili Xie
+title: Meili Xie, Ph.D.
 weight: 60
 
 # Is this the primary user of the site?

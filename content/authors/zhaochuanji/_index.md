@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chuanji Zhao
+title: Chuanji Zhao, Ph.D.
 weight: 80
 
 # Is this the primary user of the site?

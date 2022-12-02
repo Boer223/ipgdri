@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Ren
+title: Li Ren, Ph.D.
 weight: 70
 # Is this the primary user of the site?
 superuser: false

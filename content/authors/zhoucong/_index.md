@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cong Zhou
+title: Cong Zhou, Ph.D.
 weight: 100
 # Is this the primary user of the site?
 superuser: false

@@ -20,6 +20,7 @@ content:
      - Genomics
      - Disease Resistance
      - Support Staff
+     - Alumnis
 
 #    - Researchers
 #    - Postdoctoral Associates

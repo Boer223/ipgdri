@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Feng Gao
+title: Feng Gao, Ph.D.
 weight: 50
 
 # Is this the primary user of the site?

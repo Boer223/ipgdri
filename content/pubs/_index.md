@@ -1,0 +1,18 @@
+---
+title: Publications
+type: book
+toc: false
+---
+
+### 1. [Books in English](/pubs/books_english/)
+### 2. [Books and chapters in Chinese](/pubs/books_chinese/)
+### 3. Research papers in referred journals
+- [Genomics](/pubs/genomics/)
+- [Genomics in Chinese](/pubs/genomics_chinese/)
+- [Disease resistance](/pubs/disease_resistance/)
+- [Disease resistance in Chinese](/pubs/disease_resistance_chinese/)
+- [Disease epidemiology](/pubs/disease_epidemiology/)
+- [Other traits and breeding by genome design](/pubs/other_traits/)
+- [Other traits and breeding by genome design in Chinese](/pubs/other_traits_chinese/)
+
+

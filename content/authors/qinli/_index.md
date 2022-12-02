@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Qin
+title: Li Qin, Ph.D.
 weight: 40
 # Is this the primary user of the site?
 superuser: false
