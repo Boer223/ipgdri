@@ -20,12 +20,12 @@ interests:
   - Disease Resistance
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: M.Sc.
+      institution: Graduate School of Chinese Academy of Agricultural Sciences in Plant Protection
+      year: 2014-2017
+    - course: B.Sc.
+      institution: Yangtze University   Biotechnology
+      year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:zenglingyi2014@126.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -66,3 +66,9 @@ user_groups:
   - Disease Resistance
 ---
 
+My research work is focusing on disease resistance improvement of *Brassica napus* as well as providing identification for clubroot disease. I am dedicating to pathogen collection of *Plasmodiophora brassicae*, and also participating in cloning of clubroot resistant genes.
+
+#### Publications
+1.	**Zeng LY**, Ren L. Reaction and resistant gene loci detection of 28 Chinese cabbage cultivars to diferent Plasmodiophora brasicae strains, Chinese Journal of Oil Crop Sciences, 2017,(04):532-539.
+2.	L Xu, **LY Zeng**. Marker-free lines of phytase-transgenic Brassica napus show enhanced     ability to utilize phytate. Plant Cell,Tissue and Organ Culture,2020,140(1):11-22.
+3.	Xiuzhen Wang, **Lingyi Zeng**, Li Xu. Clubroot resistance introgression in interspecific between Raphanus sativus and Brassica napus. Oil Crop Science, 2019, 4(3):139-151.
