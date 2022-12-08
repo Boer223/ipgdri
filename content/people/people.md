@@ -18,7 +18,7 @@ content:
   user_groups:
      - Principal Scientist
      - Genomics
-     - Disease Resistance
+     - Disease Resistance and Integrated Control
      - Support Staff
      - Alumnis
 

@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 My research work is focusing on the identification of clubroot disease resistant resources and genes which can be used for clubroot disease resistance  improvement in rapeseed，as well as exploring the interaction between plant and *Plasmodiophora brassicae* to reveal the molecular mechanism of clubroot disease resistance.

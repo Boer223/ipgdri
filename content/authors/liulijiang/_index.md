@@ -48,7 +48,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 Clubroot disease caused by *Plasmodiophora brassicae* is a devastating disease to *Brassicaceae* crops. Our aim is to exploit and utilize plant resistant genes to prevent and control this notorious disease and our current research directions mainly include: 

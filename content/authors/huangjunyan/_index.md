@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 Sclerotinia stem rot is a devastating disease in most of the oilseed rape producing countries worldwide, and is a major factor limiting yield potential and reducing seed quality of oilseed rape in China. To exploit and utilize plant resistant genes to prevent and control *Sclerotinia* disease (SD),  our research focus on genetic mechanism  of SD resistance and related agronomic traits in *Brassica napus*.

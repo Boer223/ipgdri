@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 My main research interests focus on plant  disease epidemiology and disease management, with the emphasis on Sclerotinia stem rot (SSR) and clubroot of oilseed rape. The scope of our research on SSR and clubroot has ranged from the basic to the applied. This research includes the pathotype composition and diversity in populations of the pathogens, pathogen population dynamics and evolution, infection cycle and integrated control strategy.

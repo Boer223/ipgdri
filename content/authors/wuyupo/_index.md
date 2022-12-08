@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 My research work is focusing on mechanism analysis of recessive broad-spectrum clubroot resistance gene crg1. Clubroot disease caused by pathogenic protozoa plasmodiophora brassicae is a destructive soilborne disease, which causes great output and economic loss in Chinese rapeseed production and seriously threatens our grain and oil security. In the early stage of this study, the key gene crg1 for resistance to clubroot was identified through genome-wide association analysis and resistance identification, and the mechanism of action of recessive broad-spectrum resistance gene crg1 will be analyzed by physiological and biochemical methods.

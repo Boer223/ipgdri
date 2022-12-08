@@ -7,7 +7,7 @@ weight: 120
 superuser: false
 
 # Role/position
-role: Assistant Researcher
+role: Research Assistant 
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 My research work is focusing on disease resistance improvement of *Brassica napus* as well as providing identification for clubroot disease. I am dedicating to pathogen collection of *Plasmodiophora brassicae*, and also participating in cloning of clubroot resistant genes.

@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance
+  - Disease Resistance and Integrated Control
 ---
 
 Clubroot is a world wide disease by Pb（*Plasmodiophora brassicae Woronin*） effact the root of *Brassicacea*,which is a soil-borne disease. My research work is finding the broad-spectrum clubroot resistance genes  from the *Raphanus sativus L.* and analysing the mechanism of the broad-spectrum resistance genes, furthermore, using molecular techniques to generate the resistance of *Brassica*.
