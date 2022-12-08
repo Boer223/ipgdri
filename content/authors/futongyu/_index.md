@@ -20,12 +20,12 @@ interests:
   - Disease Resistance
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: M.Sc & Ph.D
+      institution: Chinese academy of agricultural sciences
+      year: 2020-
+    - course: B.Sc
+      institution: HeBei University
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:futongyv@163.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -66,3 +66,4 @@ user_groups:
   - Disease Resistance
 ---
 
+Clubroot is a world wide disease by Pb（*Plasmodiophora brassicae Woronin*） effact the root of *Brassicacea*,which is a soil-borne disease. My research work is finding the broad-spectrum clubroot resistance genes  from the *Raphanus sativus L.* and analysing the mechanism of the broad-spectrum resistance genes, furthermore, using molecular techniques to generate the resistance of *Brassica*.
