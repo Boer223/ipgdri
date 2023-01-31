@@ -16,20 +16,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-education:
-  courses:
-    - course:  Visiting Researcher & Senior Postdoctoral Fellow
-      institution: USDA Research Center & UK Rothamsted Research 
-      year: 2001.4-2004.2
-    - course: M.Sc. and Ph.D. in Plant Pathology
-      institution: Chinese Academy of Agricultural Sciences
-      year: 1994.9-2000.07
-    - course:  Advanced study in leaf spot and rust resistance of peanuts
-      institution: International Semi-arid Crops Institute
-      year: 1988.4-1988.11
-    - course: B.Sc in Genetic Breeding
-      institution: Huazhong Agricultural University
-      year: 1982.9-1986.7
+
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,9 +36,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/ShengyiLiu_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -64,4 +52,10 @@ user_groups:
   - Principal Scientist
 ---
 
-Prof. Shengyi Liu's team is working on the structural genome analysis of oilseed crops and new theories of polyploid genome evolution and breeding of *Brassica napus*, genome design breeding technology development and application; discovery of disease resistance resources for major diseases of *Brassica napus*, creation of disease resistance materials and molecular mechanism of disease resistance; research and development of green and efficient disease control technology for *Brassica napus*.
+My research interest and commitments are disease resistance and control, genetics and genomics, and breeding by genome design. 
+
+For disease resistance and control, my commitment is to develop green and sustainable measures for controlling the two major diseases in oilseed rape, mold diseased/stem rot caused by *Sclerotinia sclerotiorum* and clubroot caused by *Plasmodiophora brassicae*, mainly by use of plant resistance.
+
+For genomics, my interest is to understand polyploid genome evolution and to explore new breeding technology using genomics. 
+
+<font size=3>For more information about my professional experience and publication, please click here: [Shengyi Liu's CV](/files/ShengyiLiu_CV.pdf).</font>
