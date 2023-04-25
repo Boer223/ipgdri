@@ -34,6 +34,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: http://chipcui.top
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cuixb223@outlook.com'
