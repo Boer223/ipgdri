@@ -36,7 +36,7 @@ education:
 social:
   - icon: house
     icon_pack: fas
-    link: http://chipcui.top
+    link: https://xiaobocui.top
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cuixb223@outlook.com'
