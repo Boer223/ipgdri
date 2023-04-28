@@ -24,3 +24,4 @@ design:
 - [Published Plant Genomes](https://www.plabipd.de/plant_genomes_pa.ep): A website to track sequenced plant genomes which have been published in peer-reviewed journals.
 - [PlabiPD database](https://www.plabipd.de/query_view.ep): A database focuses on eight crop plants including sugar beet, grapevine, rapeseed (canola), potato, maize, barley, bread wheat and false flax.
 - [Mercator4](https://www.plabipd.de/mercator_main.html): An online tool to assign functional annotations to protein sequences of land plants (including flowering plants, ferns, horsetails, mosses, liverworts, and hornworts). Mercator4 can also annotate highly conserved proteins among the green algae groups of Archaeplastida. The results from user-submitted protein sequences can be visualized online and downloaded for further analysis.
+- [PlantTFDB](http://planttfdb.gao-lab.org/): Plant Transcription Factor Database
