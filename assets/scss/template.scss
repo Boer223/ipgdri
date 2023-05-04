@@ -1,14 +1,20 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
-  text-align: center;
+    text-align: center;
 }
 
 // Center the CTA shortcode button
 .cta-group {
-  justify-content: center;
+    justify-content: center;
 }
-img, video {
-  height: auto;
-  max-width: 100%;
-  /* display: block; */
+
+img,
+video {
+    height: auto;
+    max-width: 100%;
+    /* display: block; */
+}
+
+.avatar-circle {
+    border-radius: 5%;
 }

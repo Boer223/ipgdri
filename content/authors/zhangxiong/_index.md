@@ -27,7 +27,7 @@ education:
       institution: College of Plant Protection, Nanjing Agricultural University, Nanjing, P. R. China.
       year: 2013.09-2018.06
     - course: B.Sc. Agronomy
-      institution: College of Plant Protection, Nanjing Agricultural University, Nanjing, P. R. China.
+      institution: College of Agriculture, Nanjing Agricultural University, Nanjing, P. R. China.
       year: 2009.09-2013.06
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
