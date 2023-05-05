@@ -20,12 +20,12 @@ interests:
   - Bioinformatics
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: M.Sc.
+      institution: College of Bioscience and Engineering, Jiangxi Agricultural University
+      year: 2019-2022
+    - course: B.Sc.
+      institution: College of Bioscience and Engineering, Jiangxi Agricultural University
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
