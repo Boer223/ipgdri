@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Li Yang for passing the Ph.D. thesis defence!
+title: Congratulations to Li Yang for passing the Ph.D. thesis defense!
 date: 2023-03-15
 author: admin
 profile: false
