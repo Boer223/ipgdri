@@ -72,3 +72,6 @@ user_groups:
 ---
 
 My Ph.D. research work mainly focus on construction of *Brassica napus* population structural variation and evolution. Currently, I am also interested in *Brassica napus* omics website construction.
+
+#### Publications
+1. Xiaobo Cui, Ming Hu, Shengli Yao, Yuanyuan Zhang, Minqiang Tang, Lijiang Liu, Xiaohui Cheng, Chaobo Tong, Shengyi Liu, BnaOmics: a comprehensive platform combining pan-genome and multi-omics data of Brassica napus, Plant Communications, 2023, 100609. doi: https://doi.org/10.1016/j.xplc.2023.100609.

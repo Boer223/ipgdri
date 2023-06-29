@@ -19,12 +19,12 @@ interests:
   - Disease Resistance
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: M.Sc.
+      institution: College of Plant Science and Technology, Huazhong Agricultural University
+      year: 2014-2017
+    - course: B.Sc.
+      institution: College of Plant Science and Technology, Huazhong Agricultural University
+      year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,3 +65,4 @@ user_groups:
   - Disease Resistance and Integrated Control
 ---
 
+My research work is focusing on the identification of clubroot disease resistant resources and genes which can be used for clubroot disease resistance improvement in rapeseed.

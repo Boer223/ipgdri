@@ -1,13 +1,13 @@
 ---
 # Display name
 title: Shengyi Liu, Ph.D.
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Principal Scientist
+role: Senior Principal Scientist, Professor
 
 # Organizations/Affiliations
 organizations:

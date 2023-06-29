@@ -1,12 +1,12 @@
 ---
 # Display name
 title: Lijiang Liu, Ph.D.
-weight: 30
+weight: 1
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Principal Scientist, Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,16 @@ education:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:hilaoliu@126.com'
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-0108-0407
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Lijiang-Liu-4
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -48,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Disease Resistance and Integrated Control
+  - Principal Scientist
 ---
 
 Clubroot disease caused by *Plasmodiophora brassicae* is a devastating disease to *Brassicaceae* crops. Our aim is to exploit and utilize plant resistant genes to prevent and control this notorious disease and our current research directions mainly include: 

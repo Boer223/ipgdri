@@ -7,7 +7,7 @@ weight: 110
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:

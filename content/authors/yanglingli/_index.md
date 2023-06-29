@@ -7,7 +7,7 @@ weight: 120
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Student, graduated
 
 # Organizations/Affiliations
 organizations:
