@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: liusy@oilcrops.cn
+  email: hilaoliu@126.com
   phone: 
   address:
     street: No.2 of Xudong 2nd Road

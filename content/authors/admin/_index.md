@@ -36,6 +36,9 @@ education:
 social:
   - icon: house
     icon_pack: fas
+    link: https://mlink.cc/cuixb
+  - icon: house
+    icon_pack: fas
     link: https://xiaobocui.top
   - icon: envelope
     icon_pack: fas
