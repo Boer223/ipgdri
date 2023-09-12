@@ -6,7 +6,7 @@ weight: 130
 superuser: false
 
 # Role/position
-role: Ph.D. Student, graduated
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Genomics
+  - Alumni
 ---
 Li Yang is currently working on the genetic and molecular mechanisms of black rot resistance in *Brassica napus*. She is always interested in understanding how plant R genes evolve themselves during the long course of co-evolution with pathogens. 

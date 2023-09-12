@@ -1,30 +1,23 @@
 ---
 # Display name
-title: Zhixue Dong
-weight: 130
+title: Minqiang Tang, Ph.D.
+weight: 60
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Now work at HuNan Academy of Agricultural Sciences.
+role: Now work at Hainan University.
 
 # Organizations/Affiliations
 organizations:
-  - name: Oil Crops Research Institute, Chinese Academy of Agricultural Sciences
-    url: 'http://ocri.caas.cn/index.htm'
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-  - 
 education:
-  courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -33,16 +26,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: twitter
-    icon_pack: fab
     link: 
+
   - icon: google-scholar
     icon_pack: ai
     link: 
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/
+
   - icon: researchgate
     icon_pack: ai
     link: 
@@ -65,3 +54,4 @@ user_groups:
   - Alumni
 ---
 
+See more details at https://hd.hainanu.edu.cn/linxue/info/1016/3644.htm

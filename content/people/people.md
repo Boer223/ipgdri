@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Team Members
 subtitle:
 
 content:
@@ -20,7 +20,7 @@ content:
      - Genomics
      - Disease Resistance and Integrated Control
      - Support Staff
-     - Alumnis
+     - Alumni
 
 #    - Researchers
 #    - Postdoctoral Associates

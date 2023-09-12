@@ -7,7 +7,7 @@ weight: 80
 superuser: false
 
 # Role/position
-role: Postdoctoral Associates
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

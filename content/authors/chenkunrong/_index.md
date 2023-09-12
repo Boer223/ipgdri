@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Zhixue Dong
-weight: 130
+title: Kunrong Chen
+weight: 50
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Now work at HuNan Academy of Agricultural Sciences.
+role: Associate Professor. Retired.
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +17,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-  - 
+  - Disease Resistance
 education:
   courses:
     - course: 

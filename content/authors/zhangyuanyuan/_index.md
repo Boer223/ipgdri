@@ -6,7 +6,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Assistant Researcher
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

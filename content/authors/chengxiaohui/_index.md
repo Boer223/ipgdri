@@ -7,7 +7,7 @@ weight: 50
 superuser: false
 
 # Role/position
-role: Assistant Researcher
+role: Assistant Researcher. Move to Department of Science and Technology and Achievements Transformation.
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+  - Alumni
 ---
 
