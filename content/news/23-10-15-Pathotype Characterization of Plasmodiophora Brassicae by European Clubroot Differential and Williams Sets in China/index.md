@@ -1,0 +1,11 @@
+---
+title: The paper of "Pathotype Characterization of Plasmodiophora Brassicae by European Clubroot Differential and Williams Sets in China" has been published on Plant Disease. Congratulations! 
+date: 2023-10-15
+author: admin
+profile: false
+---
+
+### Abstract
+Clubroot disease caused by the soil-borne Plasmodiophora brassicae is devastating to Brassicaceae crops and spreading rapidly in China in recent years, resulting in great yield losses annually. Virulence of P. brassicae populations specializes and is in dynamic change in the fields. Information on the pathotypes and their distributions are crucial to control the clubroot disease. Presently, the pathotypes of P. brassicae prevalent in China, however, are not well determined. In this study, we used 16 Brassica hosts, including the European Clubroot Differentials (ECD) and Williams set, to designate the pathotypes of 33 P. brassicae populations from 13 provinces. The 33 P. brassicae populations could be divided into 26 pathotypes by the ECD set or 7 pathotypes by the Williams set, revealing ECD16/15/31 and ECD16/31/31 or P4 and P2 as the predominant pathotypes. We found the B. rapa differentials ECD01-04 showed stable and high levels of resistance to most pathotypes of P. brassicae in China, thereby providing the valuable resources for clubroot-resistance breeding of Brassicaceae crops. The ECD set exhibited much higher discernibility and further divided the isolates that belonged to the P4 pathotype into 10 ECD pathotypes. Isolates of ECD16/23/31 and ECD16/15/31 were strongly virulent on the Huashuang 5R-the first and widely used clubroot-resistant cultivar of oilseed rape in China. As we learn, 26 pathotypes are the most diverse populations of P. brassicae characterized by now in China. Our study provides new insights into virulence specialization of P. brassicae and their geographical distributions, contributing to exploitation of clubroot resistant resources and field layout of the present resistant Brassica crops in China.
+
+Lingyi Zeng, Yi Zhang, Yupo Wu, Xiong Zhang, Chuanji Zhao, Li Ren, Junyan Huang, Xiaohui Cheng, Shengyi Liu, and Lijiang Liu. 2023. Pathotype Characterization of Plasmodiophora Brassicae by European Clubroot Differential and Williams Sets in China. Plant Disease. doi: https://doi.org/10.1094/PDIS-08-23-1571-SC.

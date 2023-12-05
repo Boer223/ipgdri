@@ -23,5 +23,6 @@ design:
 <img alt="2022-07-15-graduation-fete.jpg" src="albums/activity/2022-07-15-graduation-fete.jpg" width="400" style="display: inline-block;" >
 
 #### International academic conferences and academic reports
+<img alt="2023-11-28-11th_GSC_meeting" src="albums/activity/2023-11-28-11th_GSC_meeting.jpg" width="400" style="display: inline-block;" >
 
 <img alt="International Workshop on Brassica Genomics" src="albums/activity/2018-international-workshop-on-brassica-genomics.jpg" width="400" style="display: inline-block;" > <img alt="2017-international-botanical-congress" src="albums/activity/2017-international-botanical-congress.jpg" width="400" style="display: inline-block;" > <img alt="academic-report-1" src="albums/activity/academic-report-1.jpg" width="400" style="display: inline-block;" > <img alt="academic-report-2" src="albums/activity/academic-report-2.jpg" width="250" style="display: inline-block;" >    <img alt="academic-report-3" src="albums/activity/academic-report-3.jpg" width="400" style="display: inline-block;" > 
